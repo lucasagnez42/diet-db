@@ -1183,5 +1183,20 @@
       "protein": 0.6,
       "fats": 0.4
     }
+  },
+  {
+    "id": "ing-1784937235951",
+    "name": "Peito de peru",
+    "baseWeightGrams": 50,
+    "calories": 50,
+    "carbs": 1,
+    "protein": 10,
+    "fats": 1,
+    "macronutrients": {
+      "calories": 50,
+      "carbs": 1,
+      "protein": 10,
+      "fats": 1
+    }
   }
 ]
