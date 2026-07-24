@@ -774,7 +774,7 @@
                                "protein":  35
                            },
         "instructions":  [
-                             "Em uma caneca ou bowl pequeno, adicione o Whey Protein, a farinha de trigo, o cacau em pó e o bicarbonato.",
+                             "Em uma caneca ou bowl pequeno, adicione o Whey Protein (Chocolate), a farinha de trigo, o cacau em pó e o bicarbonato.",
                              "Adicione o ovo e o leite desnatado.",
                              "Misture bem com um garfo até obter uma massa lisa e cremosa.",
                              "Leve ao micro-ondas em potência alta por 60 segundos e sirva aquecido."
@@ -791,8 +791,13 @@
                                "type":  "ingredient"
                            },
                            {
-                               "weightGrams":  40,
+                               "weightGrams":  30,
                                "id":  "ing-24",
+                               "type":  "ingredient"
+                           },
+                           {
+                               "weightGrams":  10,
+                               "id":  "ing-72",
                                "type":  "ingredient"
                            },
                            {
@@ -808,9 +813,9 @@
                                "protein":  51
                            },
         "instructions":  [
-                             "Em um pote, misture a aveia em flocos, 30g de Whey Protein, o café expresso e as sementes de chia.",
+                             "Em um pote, misture a aveia em flocos, 30g de Whey Protein (Chocolate), o café expresso e as sementes de chia.",
                              "Deixe descansar na geladeira durante a noite (ou por pelo menos 4 horas).",
-                             "Em um recipiente separado, misture o iogurte grego com 10g de Whey de baunilha.",
+                             "Em um recipiente separado, misture o iogurte grego com 10g de Whey Protein (Baunilha).",
                              "Espalhe a camada de iogurte sobre a aveia gelada e polvilhe cacau em pó por cima antes de servir."
                          ],
         "mealName":  "Tiramisu Overnight Oats Proteico",
@@ -848,7 +853,7 @@
                            },
         "instructions":  [
                              "Em uma tigela, misture o iogurte grego 0%, o ovo e as claras de ovo.",
-                             "Incorpore o Whey Protein, o cacau em pó, a farinha de aveia e o adoçante culinário.",
+                             "Incorpore o Whey Protein (Chocolate), o cacau em pó, a farinha de aveia e o adoçante culinário.",
                              "Misture bem até obter uma massa cremosa e homogênea.",
                              "Despeje em uma assadeira antiaderente para forno e distribua o chocolate amargo picado por cima.",
                              "Asse a 180°C por 15 a 20 minutos (deixando o centro levemente úmido) e corte em 9 pedaços."
@@ -860,45 +865,71 @@
         "id":  "meal-22",
         "components":  [
                            {
-                               "weightGrams":  120,
+                               "weightGrams":  128,
                                "id":  "ing-29",
                                "type":  "ingredient"
                            },
                            {
                                "weightGrams":  30,
-                               "id":  "ing-24",
+                               "id":  "ing-62",
                                "type":  "ingredient"
                            },
                            {
-                               "weightGrams":  45,
+                               "weightGrams":  50,
+                               "id":  "ing-21",
+                               "type":  "ingredient"
+                           },
+                           {
+                               "weightGrams":  135,
                                "id":  "ing-6",
                                "type":  "ingredient"
                            },
                            {
-                               "weightGrams":  5,
+                               "weightGrams":  10,
+                               "id":  "ing-72",
+                               "type":  "ingredient"
+                           },
+                           {
+                               "weightGrams":  60,
+                               "id":  "ing-24",
+                               "type":  "ingredient"
+                           },
+                           {
+                               "weightGrams":  8,
                                "id":  "ing-9",
                                "type":  "ingredient"
                            },
                            {
-                               "weightGrams":  120,
+                               "weightGrams":  30,
+                               "id":  "ing-60",
+                               "type":  "ingredient"
+                           },
+                           {
+                               "weightGrams":  21,
+                               "id":  "ing-64",
+                               "type":  "ingredient"
+                           },
+                           {
+                               "weightGrams":  240,
                                "id":  "ing-23",
                                "type":  "ingredient"
                            }
                        ],
         "macronutrients":  {
-                               "calories":  305,
-                               "carbs":  32,
+                               "calories":  222,
+                               "carbs":  25.5,
                                "fats":  5,
-                               "protein":  32
+                               "protein":  17.2
                            },
         "instructions":  [
-                             "Prepare a massa do cookie misturando os ingredientes líquidos (iogurte grego, claras) e secos (farinha de trigo, aveia, whey).",
-                             "Em outro bowl, prepare a massa do brownie misturando o purê, leite desnatado, claras, cacau em pó e whey.",
-                             "Em uma forma antiaderente pequena, despeje a massa de brownie como base.",
-                             "Adicione colheradas da massa de cookie por cima e adicione as gotas de chocolate.",
-                             "Asse em forno pré-aquecido a 180°C por 28 a 35 minutos até as bordas ficarem firmes."
+                             "Pré-aqueça o forno a 180°C (350°F) e unte uma forma de bolo inglês com spray antiaderente.",
+                             "Massa do Cookie: Misture os ingredientes líquidos (42.5g iogurte, 30ml claras, baunilha) em um bowl e os secos (15g trigo, 7.5g aveia, 10g Whey Protein Baunilha, adoçante, bicarbonato) em outro até formar uma massa firme.",
+                             "Massa do Brownie: Misture os líquidos (1 ovo, 85g iogurte, 240ml leite desnatado) e incorpore os secos (120g trigo, 30g cacau em pó, 60g Whey Protein Chocolate, 96g adoçante, fermento). Misture até obter um creme liso.",
+                             "Despeje a massa de brownie na forma de bolo inglês.",
+                             "Adicione colheradas da massa de cookie por cima e espalhe 21g de gotas de chocolate amargo.",
+                             "Asse por 50 a 55 minutos (deixando o centro levemente cremoso). Deixe esfriar antes de fatiar em 6 porções."
                          ],
-        "mealName":  "Brookie Gigante Anabólico (Cookie + Brownie)",
+        "mealName":  "Brookie Fit Anabólico (Cookie + Brownie de Forma)",
         "category":  "Lanche da tarde"
     },
     {
