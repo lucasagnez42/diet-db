@@ -1,0 +1,27 @@
+[
+  {
+    "id": "sub-1",
+    "name": "Ovos Mexidos na Manteiga",
+    "ingredients": [
+      {
+        "ingredientId": "ing-1",
+        "weightGrams": 100
+      },
+      {
+        "ingredientId": "ing-4",
+        "weightGrams": 5
+      }
+    ],
+    "instructions": [
+      "Quebre os ovos em uma tigela e bata levemente com um garfo.",
+      "Aqueça a frigideira em fogo baixo e adicione a manteiga/azeite.",
+      "Despeje os ovos e mexa suavemente até atingir a cremosidade desejada."
+    ],
+    "macronutrients": {
+      "calories": 199,
+      "carbs": 1.1,
+      "protein": 13,
+      "fats": 16
+    }
+  }
+]
