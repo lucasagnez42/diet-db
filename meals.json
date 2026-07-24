@@ -1,35 +1,692 @@
 [
-  {
-    "id": "meal-1",
-    "category": "Almoço",
-    "mealName": "Filé Mignon com Ovos e Arroz",
-    "components": [
-      {
-        "type": "sub-recipe",
-        "id": "sub-1",
-        "weightGrams": 50
-      },
-      {
-        "type": "ingredient",
-        "id": "ing-2",
-        "weightGrams": 150
-      },
-      {
-        "type": "ingredient",
-        "id": "ing-15",
-        "weightGrams": 100
-      }
-    ],
-    "macronutrients": {
-      "calories": 860,
-      "carbs": 148.6,
-      "protein": 37.9,
-      "fats": 9.7
+    {
+        "id":  "meal-1",
+        "components":  [
+                           {
+                               "weightGrams":  80,
+                               "id":  "ing-7",
+                               "type":  "ingredient"
+                           },
+                           {
+                               "weightGrams":  40,
+                               "id":  "ing-26",
+                               "type":  "ingredient"
+                           },
+                           {
+                               "weightGrams":  100,
+                               "id":  "ing-21",
+                               "type":  "ingredient"
+                           },
+                           {
+                               "weightGrams":  5,
+                               "id":  "ing-30",
+                               "type":  "ingredient"
+                           }
+                       ],
+        "macronutrients":  {
+                               "calories":  467,
+                               "carbs":  50.9,
+                               "fats":  20.4,
+                               "protein":  20.0
+                           },
+        "instructions":  [
+                             "Aqueça uma frigideira antiaderente em fogo médio.",
+                             "Espalhe a goma de tapioca peneirada até formar um disco homogêneo.",
+                             "Vire a tapioca, adicione o queijo minas picado e dobre ao meio.",
+                             "Em outra frigideira, derreta a manteiga e mexa os ovos até ficarem macios.",
+                             "Sirva a tapioca aquecida com os ovos mexidos."
+                         ],
+        "mealName":  "Tapioca de Queijo Minas com Ovo Mexido",
+        "category":  "Café da manhã"
     },
-    "instructions": [
-      "Grelhe o filé mignon temperado com sal e pimenta a gosto.",
-      "Prepare os ovos mexidos conforme a sub-receita.",
-      "Sirva o filé ao lado dos ovos e da porção de arroz branco aquecido."
-    ]
-  }
+    {
+        "id":  "meal-2",
+        "components":  [
+                           {
+                               "weightGrams":  50,
+                               "id":  "ing-10",
+                               "type":  "ingredient"
+                           },
+                           {
+                               "weightGrams":  100,
+                               "id":  "ing-21",
+                               "type":  "ingredient"
+                           },
+                           {
+                               "weightGrams":  30,
+                               "id":  "ing-28",
+                               "type":  "ingredient"
+                           },
+                           {
+                               "weightGrams":  5,
+                               "id":  "ing-30",
+                               "type":  "ingredient"
+                           }
+                       ],
+        "macronutrients":  {
+                               "calories":  384,
+                               "carbs":  28.1,
+                               "fats":  22.0,
+                               "protein":  19.4
+                           },
+        "instructions":  [
+                             "Passe um toque de manteiga nas fatias de pão artesano e doure na frigideira.",
+                             "Em uma tigela, bata os ovos com uma pitada de sal.",
+                             "Cozinhe os ovos em fogo baixo mexendo suavemente.",
+                             "Passe o cream cheese sobre o pão tostado e cubra com os ovos mexidos."
+                         ],
+        "mealName":  "Pão Artesano na Chapa com Ovos e Cream Cheese",
+        "category":  "Café da manhã"
+    },
+    {
+        "id":  "meal-3",
+        "components":  [
+                           {
+                               "weightGrams":  40,
+                               "id":  "ing-9",
+                               "type":  "ingredient"
+                           },
+                           {
+                               "weightGrams":  100,
+                               "id":  "ing-41",
+                               "type":  "ingredient"
+                           },
+                           {
+                               "weightGrams":  50,
+                               "id":  "ing-21",
+                               "type":  "ingredient"
+                           },
+                           {
+                               "weightGrams":  30,
+                               "id":  "ing-24",
+                               "type":  "ingredient"
+                           }
+                       ],
+        "macronutrients":  {
+                               "calories":  449,
+                               "carbs":  56.7,
+                               "fats":  10.0,
+                               "protein":  37.4
+                           },
+        "instructions":  [
+                             "Em uma tigela, amasse a banana e misture com o ovo, a aveia e o Whey Protein.",
+                             "Mexa bem até obter uma massa homogênea.",
+                             "Despeje porções da massa em uma frigideira antiaderente levemente untada em fogo baixo.",
+                             "Doure dos dois lados e sirva aquecido."
+                         ],
+        "mealName":  "Panqueca Fit de Aveia, Banana e Whey Protein",
+        "category":  "Café da manhã"
+    },
+    {
+        "id":  "meal-4",
+        "components":  [
+                           {
+                               "weightGrams":  100,
+                               "id":  "ing-21",
+                               "type":  "ingredient"
+                           },
+                           {
+                               "weightGrams":  30,
+                               "id":  "ing-25",
+                               "type":  "ingredient"
+                           },
+                           {
+                               "weightGrams":  50,
+                               "id":  "ing-34",
+                               "type":  "ingredient"
+                           },
+                           {
+                               "weightGrams":  20,
+                               "id":  "ing-35",
+                               "type":  "ingredient"
+                           },
+                           {
+                               "weightGrams":  5,
+                               "id":  "ing-43",
+                               "type":  "ingredient"
+                           }
+                       ],
+        "macronutrients":  {
+                               "calories":  288,
+                               "carbs":  6.3,
+                               "fats":  20.6,
+                               "protein":  20.3
+                           },
+        "instructions":  [
+                             "Bata os ovos em um recipiente com sal e temperos a gosto.",
+                             "Aqueça o azeite em uma frigideira e refogue a cebola e o tomate picados.",
+                             "Despeje os ovos batidos sobre os vegetais.",
+                             "Quando a borda firmar, adicione a mussarela, dobre a omelete e espere derreter."
+                         ],
+        "mealName":  "Omelete de Queijo Mussarela, Tomate e Cebola",
+        "category":  "Café da manhã"
+    },
+    {
+        "id":  "meal-5",
+        "components":  [
+                           {
+                               "weightGrams":  150,
+                               "id":  "ing-29",
+                               "type":  "ingredient"
+                           },
+                           {
+                               "weightGrams":  80,
+                               "id":  "ing-41",
+                               "type":  "ingredient"
+                           },
+                           {
+                               "weightGrams":  80,
+                               "id":  "ing-42",
+                               "type":  "ingredient"
+                           },
+                           {
+                               "weightGrams":  30,
+                               "id":  "ing-9",
+                               "type":  "ingredient"
+                           }
+                       ],
+        "macronutrients":  {
+                               "calories":  388,
+                               "carbs":  60.6,
+                               "fats":  10.4,
+                               "protein":  14.4
+                           },
+        "instructions":  [
+                             "Coloque o iogurte grego em um bowl ou tigela.",
+                             "Pique a banana e a maçã em cubos pequenos.",
+                             "Adicione as frutas faturadas sobre o iogurte e finalize polvilhando a aveia em flocos."
+                         ],
+        "mealName":  "Bowl de Iogurte Grego com Banana, Maçã e Aveia",
+        "category":  "Café da manhã"
+    },
+    {
+        "id":  "meal-6",
+        "components":  [
+                           {
+                               "weightGrams":  150,
+                               "id":  "ing-11",
+                               "type":  "ingredient"
+                           },
+                           {
+                               "weightGrams":  100,
+                               "id":  "ing-2",
+                               "type":  "ingredient"
+                           },
+                           {
+                               "weightGrams":  80,
+                               "id":  "ing-3",
+                               "type":  "ingredient"
+                           },
+                           {
+                               "weightGrams":  5,
+                               "id":  "ing-43",
+                               "type":  "ingredient"
+                           }
+                       ],
+        "macronutrients":  {
+                               "calories":  848,
+                               "carbs":  121,
+                               "fats":  12.4,
+                               "protein":  58.5
+                           },
+        "instructions":  [
+                             "Tempere o peito de frango cru com sal e alho.",
+                             "Grelhe o frango no azeite em frigideira bem quente até dourar os dois lados.",
+                             "Cozinhe o arroz integral e o feijão carioca previamente.",
+                             "Monte o prato servindo o frango suculento acompanhado do arroz e feijão bem aquecidos."
+                         ],
+        "mealName":  "Peito de Frango Grelhado com Arroz Integral e Feijão",
+        "category":  "Almoço"
+    },
+    {
+        "id":  "meal-7",
+        "components":  [
+                           {
+                               "weightGrams":  150,
+                               "id":  "ing-15",
+                               "type":  "ingredient"
+                           },
+                           {
+                               "weightGrams":  100,
+                               "id":  "ing-1",
+                               "type":  "ingredient"
+                           },
+                           {
+                               "weightGrams":  80,
+                               "id":  "ing-38",
+                               "type":  "ingredient"
+                           },
+                           {
+                               "weightGrams":  15,
+                               "id":  "ing-48",
+                               "type":  "ingredient"
+                           },
+                           {
+                               "weightGrams":  5,
+                               "id":  "ing-43",
+                               "type":  "ingredient"
+                           }
+                       ],
+        "macronutrients":  {
+                               "calories":  646,
+                               "carbs":  83.6,
+                               "fats":  14.4,
+                               "protein":  43.4
+                           },
+        "instructions":  [
+                             "Corte o filé mignon em tiras e sele no azeite quente.",
+                             "Adicione o molho shoyu nas tiras de filé mignon e salteie por 2 minutos.",
+                             "Fatie a couve finamente e refogue rapidamente com alho e azeite.",
+                             "Sirva a carne ao molho com a couve verde e o arroz branco."
+                         ],
+        "mealName":  "Filé Mignon ao Shoyu com Arroz Branco e Couve",
+        "category":  "Almoço"
+    },
+    {
+        "id":  "meal-8",
+        "components":  [
+                           {
+                               "weightGrams":  150,
+                               "id":  "ing-12",
+                               "type":  "ingredient"
+                           },
+                           {
+                               "weightGrams":  60,
+                               "id":  "ing-33",
+                               "type":  "ingredient"
+                           },
+                           {
+                               "weightGrams":  100,
+                               "id":  "ing-2",
+                               "type":  "ingredient"
+                           },
+                           {
+                               "weightGrams":  80,
+                               "id":  "ing-4",
+                               "type":  "ingredient"
+                           },
+                           {
+                               "weightGrams":  30,
+                               "id":  "ing-35",
+                               "type":  "ingredient"
+                           },
+                           {
+                               "weightGrams":  5,
+                               "id":  "ing-36",
+                               "type":  "ingredient"
+                           }
+                       ],
+        "macronutrients":  {
+                               "calories":  879,
+                               "carbs":  132.8,
+                               "fats":  11.3,
+                               "protein":  58.2
+                           },
+        "instructions":  [
+                             "Refogue a cebola picada e o alho em uma panela com um fio de azeite.",
+                             "Acrescente a carne moída patinho e a cenoura picada em cubinhos.",
+                             "Cozinhe até a carne estar completamente dourada e a cenoura macia.",
+                             "Sirva com o arroz integral e o feijão preto temperado."
+                         ],
+        "mealName":  "Patinho Moído com Cenoura, Arroz Integral e Feijão",
+        "category":  "Almoço"
+    },
+    {
+        "id":  "meal-9",
+        "components":  [
+                           {
+                               "weightGrams":  150,
+                               "id":  "ing-16",
+                               "type":  "ingredient"
+                           },
+                           {
+                               "weightGrams":  150,
+                               "id":  "ing-32",
+                               "type":  "ingredient"
+                           },
+                           {
+                               "weightGrams":  80,
+                               "id":  "ing-40",
+                               "type":  "ingredient"
+                           },
+                           {
+                               "weightGrams":  10,
+                               "id":  "ing-43",
+                               "type":  "ingredient"
+                           }
+                       ],
+        "macronutrients":  {
+                               "calories":  499,
+                               "carbs":  62.3,
+                               "fats":  13.3,
+                               "protein":  34.2
+                           },
+        "instructions":  [
+                             "Cozinhe a mandioca até ficar bem macia e amasse formando um purê cremoso.",
+                             "Cozinhe o brócolis no vapor até ficar al dente.",
+                             "Grelhe o filé de tilápia no azeite temperado com sal por 3 minutos de cada lado.",
+                             "Sirva a tilápia com o purê de mandioca e os brócolis."
+                         ],
+        "mealName":  "Filé de Tilápia com Purê de Mandioca e Brócolis",
+        "category":  "Almoço"
+    },
+    {
+        "id":  "meal-10",
+        "components":  [
+                           {
+                               "weightGrams":  150,
+                               "id":  "ing-17",
+                               "type":  "ingredient"
+                           },
+                           {
+                               "weightGrams":  100,
+                               "id":  "ing-1",
+                               "type":  "ingredient"
+                           },
+                           {
+                               "weightGrams":  50,
+                               "id":  "ing-39",
+                               "type":  "ingredient"
+                           },
+                           {
+                               "weightGrams":  80,
+                               "id":  "ing-34",
+                               "type":  "ingredient"
+                           },
+                           {
+                               "weightGrams":  5,
+                               "id":  "ing-43",
+                               "type":  "ingredient"
+                           }
+                       ],
+        "macronutrients":  {
+                               "calories":  738,
+                               "carbs":  83.6,
+                               "fats":  25.5,
+                               "protein":  38.4
+                           },
+        "instructions":  [
+                             "Tempere a posta de salmão com sal.",
+                             "Grelhe a pele do salmão para baixo primeiro e depois sele o outro lado.",
+                             "Monte uma salada leve com as folhas de alface fresca e fatias de tomate temperadas com azeite.",
+                             "Sirva o salmão com o arroz branco bem soltinho e a salada."
+                         ],
+        "mealName":  "Salmão Grelhado com Arroz Branco e Salada",
+        "category":  "Almoço"
+    },
+    {
+        "id":  "meal-11",
+        "components":  [
+                           {
+                               "weightGrams":  50,
+                               "id":  "ing-10",
+                               "type":  "ingredient"
+                           },
+                           {
+                               "weightGrams":  80,
+                               "id":  "ing-11",
+                               "type":  "ingredient"
+                           },
+                           {
+                               "weightGrams":  30,
+                               "id":  "ing-27",
+                               "type":  "ingredient"
+                           },
+                           {
+                               "weightGrams":  30,
+                               "id":  "ing-34",
+                               "type":  "ingredient"
+                           }
+                       ],
+        "macronutrients":  {
+                               "calories":  306,
+                               "carbs":  27.2,
+                               "fats":  10.1,
+                               "protein":  26.2
+                           },
+        "instructions":  [
+                             "Cozinhe e desfie o peito de frango temperado.",
+                             "Misture o frango desfiado com o requeijão cremoso para formar um patê.",
+                             "Monte o sanduíche com fatias de pão artesano, o patê de frango e rodelas de tomate fresco."
+                         ],
+        "mealName":  "Sanduíche de Frango Desfiado com Requeijão",
+        "category":  "Lanche da tarde"
+    },
+    {
+        "id":  "meal-12",
+        "components":  [
+                           {
+                               "weightGrams":  40,
+                               "id":  "ing-9",
+                               "type":  "ingredient"
+                           },
+                           {
+                               "weightGrams":  200,
+                               "id":  "ing-23",
+                               "type":  "ingredient"
+                           },
+                           {
+                               "weightGrams":  30,
+                               "id":  "ing-24",
+                               "type":  "ingredient"
+                           },
+                           {
+                               "weightGrams":  80,
+                               "id":  "ing-41",
+                               "type":  "ingredient"
+                           }
+                       ],
+        "macronutrients":  {
+                               "calories":  428,
+                               "carbs":  60.3,
+                               "fats":  5.5,
+                               "protein":  37.0
+                           },
+        "instructions":  [
+                             "Leve a aveia e o leite desnatado ao fogo baixo mexendo até engrossar.",
+                             "Desligue o fogo e misture o Whey Protein até dissolver por completo.",
+                             "Sirva em uma tigela com fatias de banana por cima."
+                         ],
+        "mealName":  "Mingau Cremoso de Aveia, Whey e Banana",
+        "category":  "Lanche da tarde"
+    },
+    {
+        "id":  "meal-13",
+        "components":  [
+                           {
+                               "weightGrams":  250,
+                               "id":  "ing-58",
+                               "type":  "ingredient"
+                           },
+                           {
+                               "weightGrams":  120,
+                               "id":  "ing-42",
+                               "type":  "ingredient"
+                           }
+                       ],
+        "macronutrients":  {
+                               "calories":  187,
+                               "carbs":  30.6,
+                               "fats":  1.4,
+                               "protein":  15.4
+                           },
+        "instructions":  [
+                             "Fatie a maçã fresca em gomos finos.",
+                             "Sirva a maçã acompanhada da garrafinha de YoPro gelado."
+                         ],
+        "mealName":  "YoPro Danone com Maçã Fatiada",
+        "category":  "Lanche da tarde"
+    },
+    {
+        "id":  "meal-14",
+        "components":  [
+                           {
+                               "weightGrams":  150,
+                               "id":  "ing-16",
+                               "type":  "ingredient"
+                           },
+                           {
+                               "weightGrams":  100,
+                               "id":  "ing-40",
+                               "type":  "ingredient"
+                           },
+                           {
+                               "weightGrams":  150,
+                               "id":  "ing-31",
+                               "type":  "ingredient"
+                           },
+                           {
+                               "weightGrams":  5,
+                               "id":  "ing-43",
+                               "type":  "ingredient"
+                           }
+                       ],
+        "macronutrients":  {
+                               "calories":  338,
+                               "carbs":  32.1,
+                               "fats":  8.1,
+                               "protein":  35.8
+                           },
+        "instructions":  [
+                             "Cozinhe a batata inglesa em rodelas e o brócolis no vapor.",
+                             "Grelhe a tilápia com um fio de azeite em frigideira quente.",
+                             "Monte o prato leve combinando a tilápia, batata e brócolis regados com azeite."
+                         ],
+        "mealName":  "Tilápia Grelhada com Brócolis e Batata Inglesa",
+        "category":  "Janta"
+    },
+    {
+        "id":  "meal-15",
+        "components":  [
+                           {
+                               "weightGrams":  180,
+                               "id":  "ing-14",
+                               "type":  "ingredient"
+                           },
+                           {
+                               "weightGrams":  50,
+                               "id":  "ing-38",
+                               "type":  "ingredient"
+                           },
+                           {
+                               "weightGrams":  50,
+                               "id":  "ing-39",
+                               "type":  "ingredient"
+                           },
+                           {
+                               "weightGrams":  80,
+                               "id":  "ing-34",
+                               "type":  "ingredient"
+                           },
+                           {
+                               "weightGrams":  10,
+                               "id":  "ing-43",
+                               "type":  "ingredient"
+                           }
+                       ],
+        "macronutrients":  {
+                               "calories":  429,
+                               "carbs":  6.7,
+                               "fats":  27.6,
+                               "protein":  39.8
+                           },
+        "instructions":  [
+                             "Grelhe o bife de contrafilé no ponto desejado em frigideira bem quente.",
+                             "Pique a couve, a alface e o tomate e misture em uma saladeira.",
+                             "Tempere a salada com o azeite e sal e sirva ao lado do bife fatiado."
+                         ],
+        "mealName":  "Contrafilé Grelhado com Salada Completa",
+        "category":  "Janta"
+    },
+    {
+        "id":  "meal-16",
+        "components":  [
+                           {
+                               "weightGrams":  150,
+                               "id":  "ing-17",
+                               "type":  "ingredient"
+                           },
+                           {
+                               "weightGrams":  15,
+                               "id":  "ing-49",
+                               "type":  "ingredient"
+                           },
+                           {
+                               "weightGrams":  100,
+                               "id":  "ing-2",
+                               "type":  "ingredient"
+                           },
+                           {
+                               "weightGrams":  80,
+                               "id":  "ing-40",
+                               "type":  "ingredient"
+                           }
+                       ],
+        "macronutrients":  {
+                               "calories":  723,
+                               "carbs":  83.7,
+                               "fats":  22.3,
+                               "protein":  40.8
+                           },
+        "instructions":  [
+                             "Grelhe o salmão e finalize pincelando o molho teriyaki nos minutos finais.",
+                             "Sirva acompanhado de arroz integral e brócolis cozidos no vapor."
+                         ],
+        "mealName":  "Salmão ao Teriyaki com Arroz Integral e Brócolis",
+        "category":  "Janta"
+    },
+    {
+        "id":  "meal-17",
+        "components":  [
+                           {
+                               "weightGrams":  100,
+                               "id":  "ing-21",
+                               "type":  "ingredient"
+                           },
+                           {
+                               "weightGrams":  5,
+                               "id":  "ing-43",
+                               "type":  "ingredient"
+                           }
+                       ],
+        "macronutrients":  {
+                               "calories":  187,
+                               "carbs":  1.6,
+                               "fats":  14.5,
+                               "protein":  13
+                           },
+        "instructions":  [
+                             "Aqueça o azeite em uma frigideira pequena.",
+                             "Despeje os ovos levemente batidos e mexa em fogo baixo até ficarem cremosos."
+                         ],
+        "mealName":  "Ovos Mexidos Simples no Azeite",
+        "category":  "Ceia"
+    },
+    {
+        "id":  "meal-18",
+        "components":  [
+                           {
+                               "weightGrams":  150,
+                               "id":  "ing-29",
+                               "type":  "ingredient"
+                           },
+                           {
+                               "weightGrams":  30,
+                               "id":  "ing-24",
+                               "type":  "ingredient"
+                           }
+                       ],
+        "macronutrients":  {
+                               "calories":  272,
+                               "carbs":  12.5,
+                               "fats":  9.0,
+                               "protein":  33
+                           },
+        "instructions":  [
+                             "Em uma tigela, misture bem o iogurte grego e o Whey Protein com um garfo até ficar homogêneo.",
+                             "Leve à geladeira por 15 minutos antes de consumir."
+                         ],
+        "mealName":  "Mousse Proteico de Iogurte Grego e Whey",
+        "category":  "Ceia"
+    }
 ]
