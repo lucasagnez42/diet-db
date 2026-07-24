@@ -218,33 +218,24 @@
     "id": "meal-6",
     "components": [
       {
-        "weightGrams": 150,
+        "weightGrams": 100,
         "id": "sub-5",
         "type": "sub-recipe"
       },
       {
-        "weightGrams": 100,
-        "id": "sub-2",
-        "type": "sub-recipe"
-      },
-      {
-        "weightGrams": 80,
-        "id": "sub-3",
+        "weightGrams": 150,
+        "id": "sub-1",
         "type": "sub-recipe"
       }
     ],
     "macronutrients": {
-      "calories": 848,
-      "carbs": 121,
-      "fats": 12.4,
-      "protein": 58.5
+      "calories": 691,
+      "carbs": 112.9,
+      "protein": 31.7,
+      "fats": 10.7
     },
-    "instructions": [
-      "Prepare a sub-receita de Peito de Frango Grelhado.",
-      "Prepare o Arroz Integral Cozido e o Feijão Carioca Cozido e Temperado.",
-      "Monte o prato servindo o bife de frango suculento acompanhado das porções de arroz integral e feijão bem aquecidos."
-    ],
-    "mealName": "Peito de Frango Grelhado com Arroz Integral e Feijão",
+    "instructions": [],
+    "mealName": "Frango Grelhado com Arroz ",
     "category": "Almoço"
   },
   {
