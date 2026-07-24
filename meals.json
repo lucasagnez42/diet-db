@@ -1,0 +1,35 @@
+[
+  {
+    "id": "meal-1",
+    "category": "Almoço",
+    "mealName": "Filé Mignon com Ovos e Arroz",
+    "components": [
+      {
+        "type": "sub-recipe",
+        "id": "sub-1",
+        "weightGrams": 105
+      },
+      {
+        "type": "ingredient",
+        "id": "ing-2",
+        "weightGrams": 150
+      },
+      {
+        "type": "ingredient",
+        "id": "ing-3",
+        "weightGrams": 150
+      }
+    ],
+    "macronutrients": {
+      "calories": 720,
+      "carbs": 43.1,
+      "protein": 62.65,
+      "fats": 32.2
+    },
+    "instructions": [
+      "Grelhe o filé mignon temperado com sal e pimenta a gosto.",
+      "Prepare os ovos mexidos conforme a sub-receita.",
+      "Sirva o filé ao lado dos ovos e da porção de arroz branco aquecido."
+    ]
+  }
+]
