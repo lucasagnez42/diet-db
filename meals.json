@@ -627,7 +627,7 @@
       },
       {
         "weightGrams": 100,
-        "id": "sub-2",
+        "id": "sub-1",
         "type": "sub-recipe"
       },
       {
@@ -642,16 +642,12 @@
       }
     ],
     "macronutrients": {
-      "calories": 723,
-      "carbs": 83.7,
-      "fats": 22.3,
-      "protein": 40.8
+      "calories": 756,
+      "carbs": 85.5,
+      "protein": 38.2,
+      "fats": 27.2
     },
-    "instructions": [
-      "Prepare a sub-receita de Salmão Grelhado finalizando com o molho teriyaki.",
-      "Prepare a sub-receita de Arroz Integral Cozido.",
-      "Sirva o salmão ao teriyaki acompanhado do arroz integral e brócolis no vapor."
-    ],
+    "instructions": [],
     "mealName": "Salmão ao Teriyaki com Arroz Integral e Brócolis",
     "category": "Janta"
   },
