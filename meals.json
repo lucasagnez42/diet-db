@@ -1155,10 +1155,10 @@
       }
     ],
     "macronutrients": {
-      "calories": 235,
-      "carbs": 9.5,
-      "fats": 4.2,
-      "protein": 35.5
+      "calories": 224,
+      "carbs": 2.9,
+      "protein": 35.9,
+      "fats": 6.9
     },
     "instructions": [
       "Misture o molho shoyu, o mel, o alho picado e as sementes de gergelim.",
@@ -1166,7 +1166,7 @@
       "Deixe marinar por 30 a 60 minutos na geladeira.",
       "Salteie em frigideira bem quente ou wok até o molho reduzido caramelizar no frango."
     ],
-    "mealName": "Peito de Frango Marinado Oriental (Shoyu e Gergelim)",
+    "mealName": "Frango Marinado Oriental",
     "category": "Almoço"
   },
   {
