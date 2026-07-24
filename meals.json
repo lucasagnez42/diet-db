@@ -219,28 +219,18 @@
         "components":  [
                            {
                                "weightGrams":  150,
-                               "id":  "ing-11",
-                               "type":  "ingredient"
+                               "id":  "sub-5",
+                               "type":  "sub-recipe"
                            },
                            {
                                "weightGrams":  100,
-                               "id":  "ing-2",
-                               "type":  "ingredient"
+                               "id":  "sub-2",
+                               "type":  "sub-recipe"
                            },
                            {
                                "weightGrams":  80,
-                               "id":  "ing-3",
-                               "type":  "ingredient"
-                           },
-                           {
-                               "weightGrams":  5,
-                               "id":  "ing-43",
-                               "type":  "ingredient"
-                           },
-                           {
-                               "weightGrams":  2,
-                               "id":  "ing-74",
-                               "type":  "ingredient"
+                               "id":  "sub-3",
+                               "type":  "sub-recipe"
                            }
                        ],
         "macronutrients":  {
@@ -250,10 +240,9 @@
                                "protein":  58.5
                            },
         "instructions":  [
-                             "Tempere o peito de frango cru com sal e alho.",
-                             "Grelhe o frango no azeite em frigideira bem quente até dourar os dois lados.",
-                             "Cozinhe o arroz integral e o feijão carioca previamente.",
-                             "Monte o prato servindo o frango suculento acompanhado do arroz e feijão bem aquecidos."
+                             "Prepare a sub-receita de Peito de Frango Grelhado.",
+                             "Prepare o Arroz Integral Cozido e o Feijão Carioca Cozido e Temperado.",
+                             "Monte o prato servindo o bife de frango suculento acompanhado das porções de arroz integral e feijão bem aquecidos."
                          ],
         "mealName":  "Peito de Frango Grelhado com Arroz Integral e Feijão",
         "category":  "Almoço"
@@ -263,13 +252,13 @@
         "components":  [
                            {
                                "weightGrams":  150,
-                               "id":  "ing-15",
-                               "type":  "ingredient"
+                               "id":  "sub-7",
+                               "type":  "sub-recipe"
                            },
                            {
                                "weightGrams":  100,
-                               "id":  "ing-1",
-                               "type":  "ingredient"
+                               "id":  "sub-1",
+                               "type":  "sub-recipe"
                            },
                            {
                                "weightGrams":  80,
@@ -299,10 +288,10 @@
                                "protein":  43.4
                            },
         "instructions":  [
-                             "Corte o filé mignon em tiras e sele no azeite quente.",
-                             "Adicione o molho shoyu nas tiras de filé mignon e salteie por 2 minutos.",
-                             "Fatie a couve finamente e refogue rapidamente com alho e azeite.",
-                             "Sirva a carne ao molho com a couve verde e o arroz branco."
+                             "Prepare a sub-receita de Filé Mignon Grelhado.",
+                             "Prepare a sub-receita de Arroz Branco Cozido.",
+                             "Adicione o molho shoyu nas tiras de filé mignon grelhado.",
+                             "Refogue a couve no azeite com sal e alho e sirva acompanhada do filé mignon e arroz."
                          ],
         "mealName":  "Filé Mignon ao Shoyu com Arroz Branco e Couve",
         "category":  "Almoço"
@@ -312,37 +301,22 @@
         "components":  [
                            {
                                "weightGrams":  150,
-                               "id":  "ing-12",
-                               "type":  "ingredient"
+                               "id":  "sub-6",
+                               "type":  "sub-recipe"
+                           },
+                           {
+                               "weightGrams":  100,
+                               "id":  "sub-2",
+                               "type":  "sub-recipe"
+                           },
+                           {
+                               "weightGrams":  80,
+                               "id":  "sub-4",
+                               "type":  "sub-recipe"
                            },
                            {
                                "weightGrams":  60,
                                "id":  "ing-33",
-                               "type":  "ingredient"
-                           },
-                           {
-                               "weightGrams":  100,
-                               "id":  "ing-2",
-                               "type":  "ingredient"
-                           },
-                           {
-                               "weightGrams":  80,
-                               "id":  "ing-4",
-                               "type":  "ingredient"
-                           },
-                           {
-                               "weightGrams":  30,
-                               "id":  "ing-35",
-                               "type":  "ingredient"
-                           },
-                           {
-                               "weightGrams":  5,
-                               "id":  "ing-36",
-                               "type":  "ingredient"
-                           },
-                           {
-                               "weightGrams":  2,
-                               "id":  "ing-74",
                                "type":  "ingredient"
                            }
                        ],
@@ -353,10 +327,9 @@
                                "protein":  58.2
                            },
         "instructions":  [
-                             "Refogue a cebola picada e o alho em uma panela com um fio de azeite.",
-                             "Acrescente a carne moída patinho e a cenoura picada em cubinhos.",
-                             "Cozinhe até a carne estar completamente dourada e a cenoura macia.",
-                             "Sirva com o arroz integral e o feijão preto temperado."
+                             "Prepare a sub-receita de Patinho Moído Refogado adicionando a cenoura em cubinhos durante o refogado.",
+                             "Prepare a sub-receita de Arroz Integral Cozido e de Feijão Preto Cozido e Temperado.",
+                             "Sirva a carne moída temperada acompanhada das porções de arroz integral e feijão preto."
                          ],
         "mealName":  "Patinho Moído com Cenoura, Arroz Integral e Feijão",
         "category":  "Almoço"
@@ -366,8 +339,8 @@
         "components":  [
                            {
                                "weightGrams":  150,
-                               "id":  "ing-16",
-                               "type":  "ingredient"
+                               "id":  "sub-8",
+                               "type":  "sub-recipe"
                            },
                            {
                                "weightGrams":  150,
@@ -380,7 +353,7 @@
                                "type":  "ingredient"
                            },
                            {
-                               "weightGrams":  10,
+                               "weightGrams":  5,
                                "id":  "ing-43",
                                "type":  "ingredient"
                            },
@@ -397,10 +370,10 @@
                                "protein":  34.2
                            },
         "instructions":  [
-                             "Cozinhe a mandioca até ficar bem macia e amasse formando um purê cremoso.",
-                             "Cozinhe o brócolis no vapor até ficar al dente.",
-                             "Grelhe o filé de tilápia no azeite temperado com sal por 3 minutos de cada lado.",
-                             "Sirva a tilápia com o purê de mandioca e os brócolis."
+                             "Prepare a sub-receita de Filé de Tilápia Grelhado.",
+                             "Cozinhe a mandioca até ficar macia e amasse com sal refinado e azeite formando um purê cremoso.",
+                             "Cozinhe o brócolis no vapor.",
+                             "Sirva a tilápia acompanhada do purê de mandioca e do brócolis regado com azeite."
                          ],
         "mealName":  "Filé de Tilápia com Purê de Mandioca e Brócolis",
         "category":  "Almoço"
@@ -410,13 +383,13 @@
         "components":  [
                            {
                                "weightGrams":  150,
-                               "id":  "ing-17",
-                               "type":  "ingredient"
+                               "id":  "sub-9",
+                               "type":  "sub-recipe"
                            },
                            {
                                "weightGrams":  100,
-                               "id":  "ing-1",
-                               "type":  "ingredient"
+                               "id":  "sub-1",
+                               "type":  "sub-recipe"
                            },
                            {
                                "weightGrams":  50,
@@ -446,10 +419,10 @@
                                "protein":  38.4
                            },
         "instructions":  [
-                             "Tempere a posta de salmão com sal.",
-                             "Grelhe a pele do salmão para baixo primeiro e depois sele o outro lado.",
-                             "Monte uma salada leve com as folhas de alface fresca e fatias de tomate temperadas com azeite.",
-                             "Sirva o salmão com o arroz branco bem soltinho e a salada."
+                             "Prepare a sub-receita de Salmão Grelhado.",
+                             "Prepare a sub-receita de Arroz Branco Cozido.",
+                             "Monte uma salada leve com alface e tomate temperados com azeite de oliva e sal refinado.",
+                             "Sirva o salmão grelhado acompanhado do arroz branco e da salada fresca."
                          ],
         "mealName":  "Salmão Grelhado com Arroz Branco e Salada",
         "category":  "Almoço"
@@ -567,8 +540,8 @@
         "components":  [
                            {
                                "weightGrams":  150,
-                               "id":  "ing-16",
-                               "type":  "ingredient"
+                               "id":  "sub-8",
+                               "type":  "sub-recipe"
                            },
                            {
                                "weightGrams":  100,
@@ -598,8 +571,8 @@
                                "protein":  35.8
                            },
         "instructions":  [
-                             "Cozinhe a batata inglesa em rodelas e o brócolis no vapor.",
-                             "Grelhe a tilápia com um fio de azeite em frigideira quente.",
+                             "Prepare a sub-receita de Filé de Tilápia Grelhado.",
+                             "Cozinhe as rodelas de batata inglesa e o brócolis no vapor com sal refinado.",
                              "Monte o prato leve combinando a tilápia, batata e brócolis regados com azeite."
                          ],
         "mealName":  "Tilápia Grelhada com Brócolis e Batata Inglesa",
@@ -610,8 +583,8 @@
         "components":  [
                            {
                                "weightGrams":  180,
-                               "id":  "ing-14",
-                               "type":  "ingredient"
+                               "id":  "sub-11",
+                               "type":  "sub-recipe"
                            },
                            {
                                "weightGrams":  50,
@@ -634,7 +607,7 @@
                                "type":  "ingredient"
                            },
                            {
-                               "weightGrams":  2,
+                               "weightGrams":  3,
                                "id":  "ing-74",
                                "type":  "ingredient"
                            }
@@ -646,9 +619,9 @@
                                "protein":  39.8
                            },
         "instructions":  [
-                             "Grelhe o bife de contrafilé no ponto desejado em frigideira bem quente.",
-                             "Pique a couve, a alface e o tomate e misture em uma saladeira.",
-                             "Tempere a salada com o azeite e sal e sirva ao lado do bife fatiado."
+                             "Prepare a sub-receita de Contrafilé Grelhado.",
+                             "Misture a couve, alface e tomate fatiados em uma saladeira.",
+                             "Tempere a salada com azeite de oliva e sal refinado e sirva acompanhada do bife de contrafilé."
                          ],
         "mealName":  "Contrafilé Grelhado com Salada Completa",
         "category":  "Janta"
@@ -658,8 +631,13 @@
         "components":  [
                            {
                                "weightGrams":  150,
-                               "id":  "ing-17",
-                               "type":  "ingredient"
+                               "id":  "sub-9",
+                               "type":  "sub-recipe"
+                           },
+                           {
+                               "weightGrams":  100,
+                               "id":  "sub-2",
+                               "type":  "sub-recipe"
                            },
                            {
                                "weightGrams":  15,
@@ -667,18 +645,8 @@
                                "type":  "ingredient"
                            },
                            {
-                               "weightGrams":  100,
-                               "id":  "ing-2",
-                               "type":  "ingredient"
-                           },
-                           {
                                "weightGrams":  80,
                                "id":  "ing-40",
-                               "type":  "ingredient"
-                           },
-                           {
-                               "weightGrams":  2,
-                               "id":  "ing-74",
                                "type":  "ingredient"
                            }
                        ],
@@ -689,8 +657,9 @@
                                "protein":  40.8
                            },
         "instructions":  [
-                             "Grelhe o salmão e finalize pincelando o molho teriyaki nos minutos finais.",
-                             "Sirva acompanhado de arroz integral e brócolis cozidos no vapor."
+                             "Prepare a sub-receita de Salmão Grelhado finalizando com o molho teriyaki.",
+                             "Prepare a sub-receita de Arroz Integral Cozido.",
+                             "Sirva o salmão ao teriyaki acompanhado do arroz integral e brócolis no vapor."
                          ],
         "mealName":  "Salmão ao Teriyaki com Arroz Integral e Brócolis",
         "category":  "Janta"
@@ -1071,8 +1040,8 @@
         "components":  [
                            {
                                "weightGrams":  115,
-                               "id":  "ing-12",
-                               "type":  "ingredient"
+                               "id":  "sub-6",
+                               "type":  "sub-recipe"
                            },
                            {
                                "weightGrams":  24,
@@ -1107,10 +1076,9 @@
                                "protein":  50
                            },
         "instructions":  [
-                             "Refogue a carne moída patinho na frigideira com alho, cebola em pó, sal e orégano até dourar.",
-                             "Adicione o molho de tomate e deixe reduzir até formar um recheio espesso.",
-                             "Em outra frigideira antiaderente, espalhe o queijo ralado formando um disco até derreter e dourar a borda.",
-                             "Coloque uma porção da carne moída no centro e enrole o queijo quente formando um roll/charuto crocante."
+                             "Prepare a sub-receita de Patinho Moído Refogado.",
+                             "Adicione o molho de tomate à carne moída e deixe reduzir.",
+                             "Derreta o queijo na frigideira formando um disco crocante, coloque o recheio de carne e enrole formando o pizza roll."
                          ],
         "mealName":  "Pizza Roll de Patinho e Queijo na Frigideira",
         "category":  "Janta"
