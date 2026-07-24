@@ -24,5 +24,30 @@
       "fats": 16
     },
     "deletedAt": "2026-07-24T02:58:20.338Z"
+  },
+  {
+    "id": "sub-1784864207277",
+    "name": "Filé Grelhado",
+    "ingredients": [
+      {
+        "ingredientId": "ing-15",
+        "weightGrams": 100
+      },
+      {
+        "ingredientId": "ing-30",
+        "weightGrams": 10
+      }
+    ],
+    "macronutrients": {
+      "calories": 212,
+      "carbs": 0,
+      "protein": 22.1,
+      "fats": 13.6
+    },
+    "instructions": [
+      "Aqueça a panela",
+      "Etc",
+      "Etc"
+    ]
   }
 ]
