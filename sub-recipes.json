@@ -1,552 +1,573 @@
 [
-    {
-        "instructions":  [
-                             "Refogue o alho picado no azeite de oliva.",
-                             "Adicione o arroz branco cru e refogue por 1 minuto.",
-                             "Adicione água fervente (proporção 1:2), tempere com sal refinado e cozinhe em fogo baixo até a água secar."
-                         ],
-        "macronutrients":  {
-                               "calories":  386,
-                               "carbs":  79,
-                               "fats":  3.7,
-                               "protein":  7
-                           },
-        "ingredients":  [
-                            {
-                                "ingredientId":  "ing-1",
-                                "weightGrams":  100
-                            },
-                            {
-                                "ingredientId":  "ing-43",
-                                "weightGrams":  3
-                            },
-                            {
-                                "ingredientId":  "ing-36",
-                                "weightGrams":  2
-                            },
-                            {
-                                "ingredientId":  "ing-74",
-                                "weightGrams":  1.5
-                            }
-                        ],
-        "name":  "Arroz Branco Cozido",
-        "id":  "sub-1"
+  {
+    "instructions": [
+      "Refogue o alho picado no azeite de oliva.",
+      "Adicione o arroz branco cru e refogue por 1 minuto.",
+      "Adicione água fervente (proporção 1:2), tempere com sal refinado e cozinhe em fogo baixo até a água secar."
+    ],
+    "macronutrients": {
+      "calories": 386,
+      "carbs": 79,
+      "fats": 3.7,
+      "protein": 7
     },
-    {
-        "instructions":  [
-                             "Refogue o alho no azeite.",
-                             "Adicione o arroz integral cru e a água quente.",
-                             "Tempere com sal refinado e cozinhe com a panela semi-tampada por 25 minutos até ficar macio."
-                         ],
-        "macronutrients":  {
-                               "calories":  386,
-                               "carbs":  73,
-                               "fats":  5.5,
-                               "protein":  8
-                           },
-        "ingredients":  [
-                            {
-                                "ingredientId":  "ing-2",
-                                "weightGrams":  100
-                            },
-                            {
-                                "ingredientId":  "ing-43",
-                                "weightGrams":  3
-                            },
-                            {
-                                "ingredientId":  "ing-36",
-                                "weightGrams":  2
-                            },
-                            {
-                                "ingredientId":  "ing-74",
-                                "weightGrams":  1.5
-                            }
-                        ],
-        "name":  "Arroz Integral Cozido",
-        "id":  "sub-2"
+    "ingredients": [
+      {
+        "ingredientId": "ing-1",
+        "weightGrams": 100
+      },
+      {
+        "ingredientId": "ing-43",
+        "weightGrams": 3
+      },
+      {
+        "ingredientId": "ing-36",
+        "weightGrams": 2
+      },
+      {
+        "ingredientId": "ing-74",
+        "weightGrams": 1.5
+      }
+    ],
+    "name": "Arroz Branco Cozido",
+    "id": "sub-1"
+  },
+  {
+    "instructions": [
+      "Refogue o alho no azeite.",
+      "Adicione o arroz integral cru e a água quente.",
+      "Tempere com sal refinado e cozinhe com a panela semi-tampada por 25 minutos até ficar macio."
+    ],
+    "macronutrients": {
+      "calories": 386,
+      "carbs": 73,
+      "fats": 5.5,
+      "protein": 8
     },
-    {
-        "instructions":  [
-                             "Cozinhe o feijão carioca na pressão com água.",
-                             "Em outra panela, refogue alho e cebola no azeite.",
-                             "Junte o feijão cozido com o caldo, tempere com sal refinado e deixe apurar até encorpar."
-                         ],
-        "macronutrients":  {
-                               "calories":  290,
-                               "carbs":  48,
-                               "fats":  4.1,
-                               "protein":  16
-                           },
-        "ingredients":  [
-                            {
-                                "ingredientId":  "ing-3",
-                                "weightGrams":  80
-                            },
-                            {
-                                "ingredientId":  "ing-43",
-                                "weightGrams":  3
-                            },
-                            {
-                                "ingredientId":  "ing-35",
-                                "weightGrams":  10
-                            },
-                            {
-                                "ingredientId":  "ing-36",
-                                "weightGrams":  2
-                            },
-                            {
-                                "ingredientId":  "ing-74",
-                                "weightGrams":  1.5
-                            }
-                        ],
-        "name":  "Feijão Carioca Cozido e Temperado",
-        "id":  "sub-3"
+    "ingredients": [
+      {
+        "ingredientId": "ing-2",
+        "weightGrams": 100
+      },
+      {
+        "ingredientId": "ing-43",
+        "weightGrams": 3
+      },
+      {
+        "ingredientId": "ing-36",
+        "weightGrams": 2
+      },
+      {
+        "ingredientId": "ing-74",
+        "weightGrams": 1.5
+      }
+    ],
+    "name": "Arroz Integral Cozido",
+    "id": "sub-2"
+  },
+  {
+    "instructions": [
+      "Cozinhe o feijão carioca na pressão com água.",
+      "Em outra panela, refogue alho e cebola no azeite.",
+      "Junte o feijão cozido com o caldo, tempere com sal refinado e deixe apurar até encorpar."
+    ],
+    "macronutrients": {
+      "calories": 290,
+      "carbs": 48,
+      "fats": 4.1,
+      "protein": 16
     },
-    {
-        "instructions":  [
-                             "Cozinhe o feijão preto na panela de pressão.",
-                             "Refogue alho picado e cebola no azeite de oliva.",
-                             "Adicione o feijão preto com seu caldo, tempere com sal refinado e ferva por 10 minutos."
-                         ],
-        "macronutrients":  {
-                               "calories":  298,
-                               "carbs":  49.6,
-                               "fats":  4.1,
-                               "protein":  16.8
-                           },
-        "ingredients":  [
-                            {
-                                "ingredientId":  "ing-4",
-                                "weightGrams":  80
-                            },
-                            {
-                                "ingredientId":  "ing-43",
-                                "weightGrams":  3
-                            },
-                            {
-                                "ingredientId":  "ing-35",
-                                "weightGrams":  10
-                            },
-                            {
-                                "ingredientId":  "ing-36",
-                                "weightGrams":  2
-                            },
-                            {
-                                "ingredientId":  "ing-74",
-                                "weightGrams":  1.5
-                            }
-                        ],
-        "name":  "Feijão Preto Cozido e Temperado",
-        "id":  "sub-4"
+    "ingredients": [
+      {
+        "ingredientId": "ing-3",
+        "weightGrams": 80
+      },
+      {
+        "ingredientId": "ing-43",
+        "weightGrams": 3
+      },
+      {
+        "ingredientId": "ing-35",
+        "weightGrams": 10
+      },
+      {
+        "ingredientId": "ing-36",
+        "weightGrams": 2
+      },
+      {
+        "ingredientId": "ing-74",
+        "weightGrams": 1.5
+      }
+    ],
+    "name": "Feijão Carioca Cozido e Temperado",
+    "id": "sub-3"
+  },
+  {
+    "instructions": [
+      "Cozinhe o feijão preto na panela de pressão.",
+      "Refogue alho picado e cebola no azeite de oliva.",
+      "Adicione o feijão preto com seu caldo, tempere com sal refinado e ferva por 10 minutos."
+    ],
+    "macronutrients": {
+      "calories": 298,
+      "carbs": 49.6,
+      "fats": 4.1,
+      "protein": 16.8
     },
-    {
-        "instructions":  [
-                             "Tempere os bifes de peito de frango com alho picado e sal refinado.",
-                             "Aqueça o azeite em frigideira bem quente.",
-                             "Grelhe o frango por cerca de 4 minutos de cada lado até dourar bem."
-                         ],
-        "macronutrients":  {
-                               "calories":  224,
-                               "carbs":  1,
-                               "fats":  8.8,
-                               "protein":  34.5
-                           },
-        "ingredients":  [
-                            {
-                                "ingredientId":  "ing-11",
-                                "weightGrams":  150
-                            },
-                            {
-                                "ingredientId":  "ing-43",
-                                "weightGrams":  5
-                            },
-                            {
-                                "ingredientId":  "ing-36",
-                                "weightGrams":  3
-                            },
-                            {
-                                "ingredientId":  "ing-74",
-                                "weightGrams":  2
-                            }
-                        ],
-        "name":  "Peito de Frango Grelhado",
-        "id":  "sub-5"
+    "ingredients": [
+      {
+        "ingredientId": "ing-4",
+        "weightGrams": 80
+      },
+      {
+        "ingredientId": "ing-43",
+        "weightGrams": 3
+      },
+      {
+        "ingredientId": "ing-35",
+        "weightGrams": 10
+      },
+      {
+        "ingredientId": "ing-36",
+        "weightGrams": 2
+      },
+      {
+        "ingredientId": "ing-74",
+        "weightGrams": 1.5
+      }
+    ],
+    "name": "Feijão Preto Cozido e Temperado",
+    "id": "sub-4"
+  },
+  {
+    "instructions": [
+      "Tempere os bifes de peito de frango com alho picado e sal refinado.",
+      "Aqueça o azeite em frigideira bem quente.",
+      "Grelhe o frango por cerca de 4 minutos de cada lado até dourar bem."
+    ],
+    "macronutrients": {
+      "calories": 224,
+      "carbs": 1,
+      "fats": 8.8,
+      "protein": 34.5
     },
-    {
-        "instructions":  [
-                             "Refogue a cebola picada e o alho no azeite.",
-                             "Adicione a carne moída patinho e tempere com sal refinado.",
-                             "Cozinhe mexendo com uma colher até a carne ficar soltinha e completamente dourada."
-                         ],
-        "macronutrients":  {
-                               "calories":  254,
-                               "carbs":  2.8,
-                               "fats":  12.5,
-                               "protein":  32.5
-                           },
-        "ingredients":  [
-                            {
-                                "ingredientId":  "ing-12",
-                                "weightGrams":  150
-                            },
-                            {
-                                "ingredientId":  "ing-43",
-                                "weightGrams":  5
-                            },
-                            {
-                                "ingredientId":  "ing-35",
-                                "weightGrams":  20
-                            },
-                            {
-                                "ingredientId":  "ing-36",
-                                "weightGrams":  3
-                            },
-                            {
-                                "ingredientId":  "ing-74",
-                                "weightGrams":  2
-                            }
-                        ],
-        "name":  "Patinho Moído Refogado",
-        "id":  "sub-6"
+    "ingredients": [
+      {
+        "ingredientId": "ing-11",
+        "weightGrams": 150
+      },
+      {
+        "ingredientId": "ing-43",
+        "weightGrams": 5
+      },
+      {
+        "ingredientId": "ing-36",
+        "weightGrams": 3
+      },
+      {
+        "ingredientId": "ing-74",
+        "weightGrams": 2
+      }
+    ],
+    "name": "Peito de Frango Grelhado",
+    "id": "sub-5"
+  },
+  {
+    "instructions": [
+      "Refogue a cebola picada e o alho no azeite.",
+      "Adicione a carne moída patinho e tempere com sal refinado.",
+      "Cozinhe mexendo com uma colher até a carne ficar soltinha e completamente dourada."
+    ],
+    "macronutrients": {
+      "calories": 254,
+      "carbs": 2.8,
+      "fats": 12.5,
+      "protein": 32.5
     },
-    {
-        "instructions":  [
-                             "Tempere o filé mignon em tiras/medalhão com alho picado e sal refinado.",
-                             "Grelhe no azeite em frigideira muito quente por 3 a 4 minutos até dourar e manter a suculência."
-                         ],
-        "macronutrients":  {
-                               "calories":  254,
-                               "carbs":  0.7,
-                               "fats":  13.3,
-                               "protein":  33
-                           },
-        "ingredients":  [
-                            {
-                                "ingredientId":  "ing-15",
-                                "weightGrams":  150
-                            },
-                            {
-                                "ingredientId":  "ing-43",
-                                "weightGrams":  5
-                            },
-                            {
-                                "ingredientId":  "ing-36",
-                                "weightGrams":  2
-                            },
-                            {
-                                "ingredientId":  "ing-74",
-                                "weightGrams":  2
-                            }
-                        ],
-        "name":  "Filé Mignon Grelhado",
-        "id":  "sub-7"
+    "ingredients": [
+      {
+        "ingredientId": "ing-12",
+        "weightGrams": 150
+      },
+      {
+        "ingredientId": "ing-43",
+        "weightGrams": 5
+      },
+      {
+        "ingredientId": "ing-35",
+        "weightGrams": 20
+      },
+      {
+        "ingredientId": "ing-36",
+        "weightGrams": 3
+      },
+      {
+        "ingredientId": "ing-74",
+        "weightGrams": 2
+      }
+    ],
+    "name": "Patinho Moído Refogado",
+    "id": "sub-6"
+  },
+  {
+    "instructions": [
+      "Tempere o filé mignon em tiras/medalhão com alho picado e sal refinado.",
+      "Grelhe no azeite em frigideira muito quente por 3 a 4 minutos até dourar e manter a suculência."
+    ],
+    "macronutrients": {
+      "calories": 254,
+      "carbs": 0.7,
+      "fats": 13.3,
+      "protein": 33
     },
-    {
-        "instructions":  [
-                             "Tempere o filé de tilápia com suco de limão e sal refinado.",
-                             "Grelhe no azeite em frigideira antiaderente por 3 minutos de cada lado até dourar."
-                         ],
-        "macronutrients":  {
-                               "calories":  188,
-                               "carbs":  0,
-                               "fats":  7.5,
-                               "protein":  30
-                           },
-        "ingredients":  [
-                            {
-                                "ingredientId":  "ing-16",
-                                "weightGrams":  150
-                            },
-                            {
-                                "ingredientId":  "ing-43",
-                                "weightGrams":  5
-                            },
-                            {
-                                "ingredientId":  "ing-74",
-                                "weightGrams":  2
-                            }
-                        ],
-        "name":  "Filé de Tilápia Grelhado",
-        "id":  "sub-8"
+    "ingredients": [
+      {
+        "ingredientId": "ing-15",
+        "weightGrams": 150
+      },
+      {
+        "ingredientId": "ing-43",
+        "weightGrams": 5
+      },
+      {
+        "ingredientId": "ing-36",
+        "weightGrams": 2
+      },
+      {
+        "ingredientId": "ing-74",
+        "weightGrams": 2
+      }
+    ],
+    "name": "Filé Mignon Grelhado",
+    "id": "sub-7"
+  },
+  {
+    "instructions": [
+      "Tempere o filé de tilápia com suco de limão e sal refinado.",
+      "Grelhe no azeite em frigideira antiaderente por 3 minutos de cada lado até dourar."
+    ],
+    "macronutrients": {
+      "calories": 188,
+      "carbs": 0,
+      "fats": 7.5,
+      "protein": 30
     },
-    {
-        "instructions":  [
-                             "Tempere a posta de salmão com sal refinado.",
-                             "Grelhe primeiro com a pele virada para baixo até ficar crocante, sele o outro lado e sirva."
-                         ],
-        "macronutrients":  {
-                               "calories":  356,
-                               "carbs":  0,
-                               "fats":  24.5,
-                               "protein":  30
-                           },
-        "ingredients":  [
-                            {
-                                "ingredientId":  "ing-17",
-                                "weightGrams":  150
-                            },
-                            {
-                                "ingredientId":  "ing-43",
-                                "weightGrams":  5
-                            },
-                            {
-                                "ingredientId":  "ing-74",
-                                "weightGrams":  2
-                            }
-                        ],
-        "name":  "Salmão Grelhado",
-        "id":  "sub-9"
+    "ingredients": [
+      {
+        "ingredientId": "ing-16",
+        "weightGrams": 150
+      },
+      {
+        "ingredientId": "ing-43",
+        "weightGrams": 5
+      },
+      {
+        "ingredientId": "ing-74",
+        "weightGrams": 2
+      }
+    ],
+    "name": "Filé de Tilápia Grelhado",
+    "id": "sub-8"
+  },
+  {
+    "instructions": [
+      "Tempere a posta de salmão com sal refinado.",
+      "Grelhe primeiro com a pele virada para baixo até ficar crocante, sele o outro lado e sirva."
+    ],
+    "macronutrients": {
+      "calories": 356,
+      "carbs": 0,
+      "fats": 24.5,
+      "protein": 30
     },
-    {
-        "instructions":  [
-                             "Tempere a alcatra com sal refinado e alho.",
-                             "Derreta a manteiga com azeite em frigideira bem quente e sele a alcatra até o ponto desejado."
-                         ],
-        "macronutrients":  {
-                               "calories":  298,
-                               "carbs":  1,
-                               "fats":  18.6,
-                               "protein":  31.6
-                           },
-        "ingredients":  [
-                            {
-                                "ingredientId":  "ing-13",
-                                "weightGrams":  150
-                            },
-                            {
-                                "ingredientId":  "ing-43",
-                                "weightGrams":  5
-                            },
-                            {
-                                "ingredientId":  "ing-30",
-                                "weightGrams":  5
-                            },
-                            {
-                                "ingredientId":  "ing-36",
-                                "weightGrams":  3
-                            },
-                            {
-                                "ingredientId":  "ing-74",
-                                "weightGrams":  2
-                            }
-                        ],
-        "name":  "Alcatra Grelhada na Manteiga de Alho",
-        "id":  "sub-10"
+    "ingredients": [
+      {
+        "ingredientId": "ing-17",
+        "weightGrams": 150
+      },
+      {
+        "ingredientId": "ing-43",
+        "weightGrams": 5
+      },
+      {
+        "ingredientId": "ing-74",
+        "weightGrams": 2
+      }
+    ],
+    "name": "Salmão Grelhado",
+    "id": "sub-9"
+  },
+  {
+    "instructions": [
+      "Tempere a alcatra com sal refinado e alho.",
+      "Derreta a manteiga com azeite em frigideira bem quente e sele a alcatra até o ponto desejado."
+    ],
+    "macronutrients": {
+      "calories": 298,
+      "carbs": 1,
+      "fats": 18.6,
+      "protein": 31.6
     },
-    {
-        "instructions":  [
-                             "Tempere o bife de contrafilé com sal refinado.",
-                             "Grelhe em frigideira muito quente com azeite por 3 a 4 minutos de cada lado."
-                         ],
-        "macronutrients":  {
-                               "calories":  350,
-                               "carbs":  0,
-                               "fats":  22.1,
-                               "protein":  36.9
-                           },
-        "ingredients":  [
-                            {
-                                "ingredientId":  "ing-14",
-                                "weightGrams":  180
-                            },
-                            {
-                                "ingredientId":  "ing-43",
-                                "weightGrams":  5
-                            },
-                            {
-                                "ingredientId":  "ing-74",
-                                "weightGrams":  2.5
-                            }
-                        ],
-        "name":  "Contrafilé Grelhado",
-        "id":  "sub-11"
+    "ingredients": [
+      {
+        "ingredientId": "ing-13",
+        "weightGrams": 150
+      },
+      {
+        "ingredientId": "ing-43",
+        "weightGrams": 5
+      },
+      {
+        "ingredientId": "ing-30",
+        "weightGrams": 5
+      },
+      {
+        "ingredientId": "ing-36",
+        "weightGrams": 3
+      },
+      {
+        "ingredientId": "ing-74",
+        "weightGrams": 2
+      }
+    ],
+    "name": "Alcatra Grelhada na Manteiga de Alho",
+    "id": "sub-10"
+  },
+  {
+    "instructions": [
+      "Tempere o bife de contrafilé com sal refinado.",
+      "Grelhe em frigideira muito quente com azeite por 3 a 4 minutos de cada lado."
+    ],
+    "macronutrients": {
+      "calories": 350,
+      "carbs": 0,
+      "fats": 22.1,
+      "protein": 36.9
     },
-    {
-        "instructions":  [
-                             "Tempere os camarões com sal refinado e alho picado.",
-                             "Salteie no azeite em frigideira bem quente por 2 a 3 minutos até ficarem rosados."
-                         ],
-        "macronutrients":  {
-                               "calories":  146,
-                               "carbs":  1,
-                               "fats":  6.3,
-                               "protein":  21.8
-                           },
-        "ingredients":  [
-                            {
-                                "ingredientId":  "ing-18",
-                                "weightGrams":  120
-                            },
-                            {
-                                "ingredientId":  "ing-43",
-                                "weightGrams":  5
-                            },
-                            {
-                                "ingredientId":  "ing-36",
-                                "weightGrams":  3
-                            },
-                            {
-                                "ingredientId":  "ing-74",
-                                "weightGrams":  1.5
-                            }
-                        ],
-        "name":  "Camarão Salteado no Alho",
-        "id":  "sub-12"
+    "ingredients": [
+      {
+        "ingredientId": "ing-14",
+        "weightGrams": 180
+      },
+      {
+        "ingredientId": "ing-43",
+        "weightGrams": 5
+      },
+      {
+        "ingredientId": "ing-74",
+        "weightGrams": 2.5
+      }
+    ],
+    "name": "Contrafilé Grelhado",
+    "id": "sub-11"
+  },
+  {
+    "instructions": [
+      "Tempere os camarões com sal refinado e alho picado.",
+      "Salteie no azeite em frigideira bem quente por 2 a 3 minutos até ficarem rosados."
+    ],
+    "macronutrients": {
+      "calories": 146,
+      "carbs": 1,
+      "fats": 6.3,
+      "protein": 21.8
     },
-    {
-        "instructions":  [
-                             "Em um bowl, misture o iogurte natural com alho picado, açafrão, raspas de limão, pimenta-do-reino e sal refinado.",
-                             "Envolva o peito de frango cru na marinada e deixe descansar na geladeira por 30 a 60 minutos antes de grelhar."
-                         ],
-        "macronutrients":  {
-                               "calories":  36,
-                               "carbs":  3.1,
-                               "fats":  1.5,
-                               "protein":  1.9
-                           },
-        "ingredients":  [
-                            {
-                                "ingredientId":  "ing-29",
-                                "weightGrams":  30
-                            },
-                            {
-                                "ingredientId":  "ing-36",
-                                "weightGrams":  3
-                            },
-                            {
-                                "ingredientId":  "ing-69",
-                                "weightGrams":  2
-                            },
-                            {
-                                "ingredientId":  "ing-75",
-                                "weightGrams":  1
-                            },
-                            {
-                                "ingredientId":  "ing-76",
-                                "weightGrams":  2
-                            },
-                            {
-                                "ingredientId":  "ing-74",
-                                "weightGrams":  2
-                            }
-                        ],
-        "name":  "Marinada Cremosa de Ervas (para Frango)",
-        "id":  "sub-13"
+    "ingredients": [
+      {
+        "ingredientId": "ing-18",
+        "weightGrams": 120
+      },
+      {
+        "ingredientId": "ing-43",
+        "weightGrams": 5
+      },
+      {
+        "ingredientId": "ing-36",
+        "weightGrams": 3
+      },
+      {
+        "ingredientId": "ing-74",
+        "weightGrams": 1.5
+      }
+    ],
+    "name": "Camarão Salteado no Alho",
+    "id": "sub-12"
+  },
+  {
+    "instructions": [
+      "Em um bowl, misture o iogurte natural com alho picado, açafrão, raspas de limão, pimenta-do-reino e sal refinado.",
+      "Envolva o peito de frango cru na marinada e deixe descansar na geladeira por 30 a 60 minutos antes de grelhar."
+    ],
+    "macronutrients": {
+      "calories": 36,
+      "carbs": 3.1,
+      "fats": 1.5,
+      "protein": 1.9
     },
-    {
-        "instructions":  [
-                             "Misture a mostarda amarela, o mel de abelha, o suco de limão natural, a cebolinha picada e o sal refinado.",
-                             "Envolva o peito de frango na marinada agridoce por 30 a 60 minutos na geladeira."
-                         ],
-        "macronutrients":  {
-                               "calories":  48,
-                               "carbs":  9.3,
-                               "fats":  0.7,
-                               "protein":  0.8
-                           },
-        "ingredients":  [
-                            {
-                                "ingredientId":  "ing-52",
-                                "weightGrams":  15
-                            },
-                            {
-                                "ingredientId":  "ing-67",
-                                "weightGrams":  10
-                            },
-                            {
-                                "ingredientId":  "ing-78",
-                                "weightGrams":  15
-                            },
-                            {
-                                "ingredientId":  "ing-77",
-                                "weightGrams":  5
-                            },
-                            {
-                                "ingredientId":  "ing-74",
-                                "weightGrams":  2
-                            }
-                        ],
-        "name":  "Marinada Agridoce (para Frango)",
-        "id":  "sub-14"
+    "ingredients": [
+      {
+        "ingredientId": "ing-29",
+        "weightGrams": 30
+      },
+      {
+        "ingredientId": "ing-36",
+        "weightGrams": 3
+      },
+      {
+        "ingredientId": "ing-69",
+        "weightGrams": 2
+      },
+      {
+        "ingredientId": "ing-75",
+        "weightGrams": 1
+      },
+      {
+        "ingredientId": "ing-76",
+        "weightGrams": 2
+      },
+      {
+        "ingredientId": "ing-74",
+        "weightGrams": 2
+      }
+    ],
+    "name": "Marinada Cremosa de Ervas (para Frango)",
+    "id": "sub-13"
+  },
+  {
+    "instructions": [
+      "Misture a mostarda amarela, o mel de abelha, o suco de limão natural, a cebolinha picada e o sal refinado.",
+      "Envolva o peito de frango na marinada agridoce por 30 a 60 minutos na geladeira."
+    ],
+    "macronutrients": {
+      "calories": 48,
+      "carbs": 9.3,
+      "fats": 0.7,
+      "protein": 0.8
     },
-    {
-        "instructions":  [
-                             "Misture o molho shoyu, o mel de abelha, o alho picado, as sementes de gergelim e o sal refinado.",
-                             "Deixe o peito de frango marinar por 30 a 60 minutos antes de grelhar ou saltear."
-                         ],
-        "macronutrients":  {
-                               "calories":  70,
-                               "carbs":  10.4,
-                               "fats":  2.5,
-                               "protein":  2.2
-                           },
-        "ingredients":  [
-                            {
-                                "ingredientId":  "ing-48",
-                                "weightGrams":  15
-                            },
-                            {
-                                "ingredientId":  "ing-67",
-                                "weightGrams":  10
-                            },
-                            {
-                                "ingredientId":  "ing-70",
-                                "weightGrams":  5
-                            },
-                            {
-                                "ingredientId":  "ing-36",
-                                "weightGrams":  3
-                            },
-                            {
-                                "ingredientId":  "ing-74",
-                                "weightGrams":  1
-                            }
-                        ],
-        "name":  "Marinada Oriental (para Frango)",
-        "id":  "sub-15"
+    "ingredients": [
+      {
+        "ingredientId": "ing-52",
+        "weightGrams": 15
+      },
+      {
+        "ingredientId": "ing-67",
+        "weightGrams": 10
+      },
+      {
+        "ingredientId": "ing-78",
+        "weightGrams": 15
+      },
+      {
+        "ingredientId": "ing-77",
+        "weightGrams": 5
+      },
+      {
+        "ingredientId": "ing-74",
+        "weightGrams": 2
+      }
+    ],
+    "name": "Marinada Agridoce (para Frango)",
+    "id": "sub-14"
+  },
+  {
+    "instructions": [
+      "Misture o molho shoyu, o mel de abelha, o alho picado, as sementes de gergelim e o sal refinado.",
+      "Deixe o peito de frango marinar por 30 a 60 minutos antes de grelhar ou saltear."
+    ],
+    "macronutrients": {
+      "calories": 70,
+      "carbs": 10.4,
+      "fats": 2.5,
+      "protein": 2.2
     },
-    {
-        "instructions":  [
-                             "Em um recipiente, misture o iogurte natural, o suco de limão, o alho picado, o azeite de oliva, a cebolinha, a pimenta-do-reino e o sal refinado.",
-                             "Adicione o frango e deixe marinar na geladeira por 30 a 60 minutos."
-                         ],
-        "macronutrients":  {
-                               "calories":  82,
-                               "carbs":  3.3,
-                               "fats":  6.5,
-                               "protein":  2
-                           },
-        "ingredients":  [
-                            {
-                                "ingredientId":  "ing-29",
-                                "weightGrams":  30
-                            },
-                            {
-                                "ingredientId":  "ing-78",
-                                "weightGrams":  15
-                            },
-                            {
-                                "ingredientId":  "ing-36",
-                                "weightGrams":  3
-                            },
-                            {
-                                "ingredientId":  "ing-43",
-                                "weightGrams":  5
-                            },
-                            {
-                                "ingredientId":  "ing-77",
-                                "weightGrams":  5
-                            },
-                            {
-                                "ingredientId":  "ing-75",
-                                "weightGrams":  1
-                            },
-                            {
-                                "ingredientId":  "ing-74",
-                                "weightGrams":  2
-                            }
-                        ],
-        "name":  "Marinada Refrescante (para Frango)",
-        "id":  "sub-16"
-    }
+    "ingredients": [
+      {
+        "ingredientId": "ing-48",
+        "weightGrams": 15
+      },
+      {
+        "ingredientId": "ing-67",
+        "weightGrams": 10
+      },
+      {
+        "ingredientId": "ing-70",
+        "weightGrams": 5
+      },
+      {
+        "ingredientId": "ing-36",
+        "weightGrams": 3
+      },
+      {
+        "ingredientId": "ing-74",
+        "weightGrams": 1
+      }
+    ],
+    "name": "Marinada Oriental (para Frango)",
+    "id": "sub-15"
+  },
+  {
+    "instructions": [
+      "Em um recipiente, misture o iogurte natural, o suco de limão, o alho picado, o azeite de oliva, a cebolinha, a pimenta-do-reino e o sal refinado.",
+      "Adicione o frango e deixe marinar na geladeira por 30 a 60 minutos."
+    ],
+    "macronutrients": {
+      "calories": 82,
+      "carbs": 3.3,
+      "fats": 6.5,
+      "protein": 2
+    },
+    "ingredients": [
+      {
+        "ingredientId": "ing-29",
+        "weightGrams": 30
+      },
+      {
+        "ingredientId": "ing-78",
+        "weightGrams": 15
+      },
+      {
+        "ingredientId": "ing-36",
+        "weightGrams": 3
+      },
+      {
+        "ingredientId": "ing-43",
+        "weightGrams": 5
+      },
+      {
+        "ingredientId": "ing-77",
+        "weightGrams": 5
+      },
+      {
+        "ingredientId": "ing-75",
+        "weightGrams": 1
+      },
+      {
+        "ingredientId": "ing-74",
+        "weightGrams": 2
+      }
+    ],
+    "name": "Marinada Refrescante (para Frango)",
+    "id": "sub-16"
+  },
+  {
+    "id": "sub-1784934130094",
+    "name": "Nescau",
+    "ingredients": [
+      {
+        "ingredientId": "ing-23",
+        "weightGrams": 200
+      },
+      {
+        "ingredientId": "ing-1784934055823",
+        "weightGrams": 30
+      }
+    ],
+    "macronutrients": {
+      "calories": 184,
+      "carbs": 35.1,
+      "protein": 7.3,
+      "fats": 1
+    },
+    "instructions": []
+  }
 ]
