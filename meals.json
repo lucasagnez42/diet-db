@@ -1145,5 +1145,34 @@
     "mealName": "Peito de Frango Marinado Refrescante (Iogurte, Limão e Azeite)",
     "category": "Almoço",
     "deletedAt": "2026-07-24T22:32:40.545Z"
+  },
+  {
+    "id": "meal-1784934188766",
+    "category": "Ceia",
+    "mealName": "Sanduíche de Queijo com Nescau",
+    "components": [
+      {
+        "type": "sub-recipe",
+        "id": "sub-1784934130094",
+        "weightGrams": 230
+      },
+      {
+        "type": "ingredient",
+        "id": "ing-10",
+        "weightGrams": 75
+      },
+      {
+        "type": "ingredient",
+        "id": "ing-25",
+        "weightGrams": 50
+      }
+    ],
+    "macronutrients": {
+      "calories": 519,
+      "carbs": 74.1,
+      "protein": 25.1,
+      "fats": 13.3
+    },
+    "instructions": []
   }
 ]
