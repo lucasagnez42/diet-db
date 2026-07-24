@@ -994,5 +994,23 @@
         "baseWeightGrams":  30,
         "calories":  122,
         "protein":  24
+    },
+    {
+        "id":  "ing-73",
+        "name":  "Farinha de Aveia",
+        "fats":  8.5,
+        "carbs":  66,
+        "baseWeightGrams":  100,
+        "calories":  394,
+        "protein":  13.9
+    },
+    {
+        "id":  "ing-74",
+        "name":  "Sal Refinado",
+        "fats":  0,
+        "carbs":  0,
+        "baseWeightGrams":  5,
+        "calories":  0,
+        "protein":  0
     }
 ]
