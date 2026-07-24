@@ -1,53 +1,396 @@
 [
-  {
-    "id": "sub-1",
-    "name": "Ovos Mexidos na Manteiga",
-    "ingredients": [
-      {
-        "ingredientId": "ing-1",
-        "weightGrams": 100
-      },
-      {
-        "ingredientId": "ing-4",
-        "weightGrams": 5
-      }
-    ],
-    "instructions": [
-      "Quebre os ovos em uma tigela e bata levemente com um garfo.",
-      "Aqueça a frigideira em fogo baixo e adicione a manteiga/azeite.",
-      "Despeje os ovos e mexa suavemente até atingir a cremosidade desejada."
-    ],
-    "macronutrients": {
-      "calories": 199,
-      "carbs": 1.1,
-      "protein": 13,
-      "fats": 16
+    {
+        "instructions":  [
+                             "Refogue o alho picado no azeite de oliva.",
+                             "Adicione o arroz branco cru e refogue por 1 minuto.",
+                             "Adicione água fervente (proporção 1:2), tempere com sal refinado e cozinhe em fogo baixo até a água secar."
+                         ],
+        "macronutrients":  {
+                               "calories":  386,
+                               "carbs":  79,
+                               "fats":  3.7,
+                               "protein":  7
+                           },
+        "ingredients":  [
+                            {
+                                "ingredientId":  "ing-1",
+                                "weightGrams":  100
+                            },
+                            {
+                                "ingredientId":  "ing-43",
+                                "weightGrams":  3
+                            },
+                            {
+                                "ingredientId":  "ing-36",
+                                "weightGrams":  2
+                            },
+                            {
+                                "ingredientId":  "ing-74",
+                                "weightGrams":  1.5
+                            }
+                        ],
+        "name":  "Arroz Branco Cozido",
+        "id":  "sub-1"
     },
-    "deletedAt": "2026-07-24T02:58:20.338Z"
-  },
-  {
-    "id": "sub-1784864207277",
-    "name": "Filé Grelhado",
-    "ingredients": [
-      {
-        "ingredientId": "ing-15",
-        "weightGrams": 100
-      },
-      {
-        "ingredientId": "ing-30",
-        "weightGrams": 10
-      }
-    ],
-    "macronutrients": {
-      "calories": 212,
-      "carbs": 0,
-      "protein": 22.1,
-      "fats": 13.6
+    {
+        "instructions":  [
+                             "Refogue o alho no azeite.",
+                             "Adicione o arroz integral cru e a água quente.",
+                             "Tempere com sal refinado e cozinhe com a panela semi-tampada por 25 minutos até ficar macio."
+                         ],
+        "macronutrients":  {
+                               "calories":  386,
+                               "carbs":  73,
+                               "fats":  5.5,
+                               "protein":  8
+                           },
+        "ingredients":  [
+                            {
+                                "ingredientId":  "ing-2",
+                                "weightGrams":  100
+                            },
+                            {
+                                "ingredientId":  "ing-43",
+                                "weightGrams":  3
+                            },
+                            {
+                                "ingredientId":  "ing-36",
+                                "weightGrams":  2
+                            },
+                            {
+                                "ingredientId":  "ing-74",
+                                "weightGrams":  1.5
+                            }
+                        ],
+        "name":  "Arroz Integral Cozido",
+        "id":  "sub-2"
     },
-    "instructions": [
-      "Aqueça a panela",
-      "Etc",
-      "Etc"
-    ]
-  }
+    {
+        "instructions":  [
+                             "Cozinhe o feijão carioca na pressão com água.",
+                             "Em outra panela, refogue alho e cebola no azeite.",
+                             "Junte o feijão cozido com o caldo, tempere com sal refinado e deixe apurar até encorpar."
+                         ],
+        "macronutrients":  {
+                               "calories":  290,
+                               "carbs":  48,
+                               "fats":  4.1,
+                               "protein":  16
+                           },
+        "ingredients":  [
+                            {
+                                "ingredientId":  "ing-3",
+                                "weightGrams":  80
+                            },
+                            {
+                                "ingredientId":  "ing-43",
+                                "weightGrams":  3
+                            },
+                            {
+                                "ingredientId":  "ing-35",
+                                "weightGrams":  10
+                            },
+                            {
+                                "ingredientId":  "ing-36",
+                                "weightGrams":  2
+                            },
+                            {
+                                "ingredientId":  "ing-74",
+                                "weightGrams":  1.5
+                            }
+                        ],
+        "name":  "Feijão Carioca Cozido e Temperado",
+        "id":  "sub-3"
+    },
+    {
+        "instructions":  [
+                             "Cozinhe o feijão preto na panela de pressão.",
+                             "Refogue alho picado e cebola no azeite de oliva.",
+                             "Adicione o feijão preto com seu caldo, tempere com sal refinado e ferva por 10 minutos."
+                         ],
+        "macronutrients":  {
+                               "calories":  298,
+                               "carbs":  49.6,
+                               "fats":  4.1,
+                               "protein":  16.8
+                           },
+        "ingredients":  [
+                            {
+                                "ingredientId":  "ing-4",
+                                "weightGrams":  80
+                            },
+                            {
+                                "ingredientId":  "ing-43",
+                                "weightGrams":  3
+                            },
+                            {
+                                "ingredientId":  "ing-35",
+                                "weightGrams":  10
+                            },
+                            {
+                                "ingredientId":  "ing-36",
+                                "weightGrams":  2
+                            },
+                            {
+                                "ingredientId":  "ing-74",
+                                "weightGrams":  1.5
+                            }
+                        ],
+        "name":  "Feijão Preto Cozido e Temperado",
+        "id":  "sub-4"
+    },
+    {
+        "instructions":  [
+                             "Tempere os bifes de peito de frango com alho picado e sal refinado.",
+                             "Aqueça o azeite em frigideira bem quente.",
+                             "Grelhe o frango por cerca de 4 minutos de cada lado até dourar bem."
+                         ],
+        "macronutrients":  {
+                               "calories":  224,
+                               "carbs":  1,
+                               "fats":  8.8,
+                               "protein":  34.5
+                           },
+        "ingredients":  [
+                            {
+                                "ingredientId":  "ing-11",
+                                "weightGrams":  150
+                            },
+                            {
+                                "ingredientId":  "ing-43",
+                                "weightGrams":  5
+                            },
+                            {
+                                "ingredientId":  "ing-36",
+                                "weightGrams":  3
+                            },
+                            {
+                                "ingredientId":  "ing-74",
+                                "weightGrams":  2
+                            }
+                        ],
+        "name":  "Peito de Frango Grelhado",
+        "id":  "sub-5"
+    },
+    {
+        "instructions":  [
+                             "Refogue a cebola picada e o alho no azeite.",
+                             "Adicione a carne moída patinho e tempere com sal refinado.",
+                             "Cozinhe mexendo com uma colher até a carne ficar soltinha e completamente dourada."
+                         ],
+        "macronutrients":  {
+                               "calories":  254,
+                               "carbs":  2.8,
+                               "fats":  12.5,
+                               "protein":  32.5
+                           },
+        "ingredients":  [
+                            {
+                                "ingredientId":  "ing-12",
+                                "weightGrams":  150
+                            },
+                            {
+                                "ingredientId":  "ing-43",
+                                "weightGrams":  5
+                            },
+                            {
+                                "ingredientId":  "ing-35",
+                                "weightGrams":  20
+                            },
+                            {
+                                "ingredientId":  "ing-36",
+                                "weightGrams":  3
+                            },
+                            {
+                                "ingredientId":  "ing-74",
+                                "weightGrams":  2
+                            }
+                        ],
+        "name":  "Patinho Moído Refogado",
+        "id":  "sub-6"
+    },
+    {
+        "instructions":  [
+                             "Tempere o filé mignon em tiras/medalhão com alho picado e sal refinado.",
+                             "Grelhe no azeite em frigideira muito quente por 3 a 4 minutos até dourar e manter a suculência."
+                         ],
+        "macronutrients":  {
+                               "calories":  254,
+                               "carbs":  0.7,
+                               "fats":  13.3,
+                               "protein":  33
+                           },
+        "ingredients":  [
+                            {
+                                "ingredientId":  "ing-15",
+                                "weightGrams":  150
+                            },
+                            {
+                                "ingredientId":  "ing-43",
+                                "weightGrams":  5
+                            },
+                            {
+                                "ingredientId":  "ing-36",
+                                "weightGrams":  2
+                            },
+                            {
+                                "ingredientId":  "ing-74",
+                                "weightGrams":  2
+                            }
+                        ],
+        "name":  "Filé Mignon Grelhado",
+        "id":  "sub-7"
+    },
+    {
+        "instructions":  [
+                             "Tempere o filé de tilápia com suco de limão e sal refinado.",
+                             "Grelhe no azeite em frigideira antiaderente por 3 minutos de cada lado até dourar."
+                         ],
+        "macronutrients":  {
+                               "calories":  188,
+                               "carbs":  0,
+                               "fats":  7.5,
+                               "protein":  30
+                           },
+        "ingredients":  [
+                            {
+                                "ingredientId":  "ing-16",
+                                "weightGrams":  150
+                            },
+                            {
+                                "ingredientId":  "ing-43",
+                                "weightGrams":  5
+                            },
+                            {
+                                "ingredientId":  "ing-74",
+                                "weightGrams":  2
+                            }
+                        ],
+        "name":  "Filé de Tilápia Grelhado",
+        "id":  "sub-8"
+    },
+    {
+        "instructions":  [
+                             "Tempere a posta de salmão com sal refinado.",
+                             "Grelhe primeiro com a pele virada para baixo até ficar crocante, sele o outro lado e sirva."
+                         ],
+        "macronutrients":  {
+                               "calories":  356,
+                               "carbs":  0,
+                               "fats":  24.5,
+                               "protein":  30
+                           },
+        "ingredients":  [
+                            {
+                                "ingredientId":  "ing-17",
+                                "weightGrams":  150
+                            },
+                            {
+                                "ingredientId":  "ing-43",
+                                "weightGrams":  5
+                            },
+                            {
+                                "ingredientId":  "ing-74",
+                                "weightGrams":  2
+                            }
+                        ],
+        "name":  "Salmão Grelhado",
+        "id":  "sub-9"
+    },
+    {
+        "instructions":  [
+                             "Tempere a alcatra com sal refinado e alho.",
+                             "Derreta a manteiga com azeite em frigideira bem quente e sele a alcatra até o ponto desejado."
+                         ],
+        "macronutrients":  {
+                               "calories":  298,
+                               "carbs":  1,
+                               "fats":  18.6,
+                               "protein":  31.6
+                           },
+        "ingredients":  [
+                            {
+                                "ingredientId":  "ing-13",
+                                "weightGrams":  150
+                            },
+                            {
+                                "ingredientId":  "ing-43",
+                                "weightGrams":  5
+                            },
+                            {
+                                "ingredientId":  "ing-30",
+                                "weightGrams":  5
+                            },
+                            {
+                                "ingredientId":  "ing-36",
+                                "weightGrams":  3
+                            },
+                            {
+                                "ingredientId":  "ing-74",
+                                "weightGrams":  2
+                            }
+                        ],
+        "name":  "Alcatra Grelhada na Manteiga de Alho",
+        "id":  "sub-10"
+    },
+    {
+        "instructions":  [
+                             "Tempere o bife de contrafilé com sal refinado.",
+                             "Grelhe em frigideira muito quente com azeite por 3 a 4 minutos de cada lado."
+                         ],
+        "macronutrients":  {
+                               "calories":  350,
+                               "carbs":  0,
+                               "fats":  22.1,
+                               "protein":  36.9
+                           },
+        "ingredients":  [
+                            {
+                                "ingredientId":  "ing-14",
+                                "weightGrams":  180
+                            },
+                            {
+                                "ingredientId":  "ing-43",
+                                "weightGrams":  5
+                            },
+                            {
+                                "ingredientId":  "ing-74",
+                                "weightGrams":  2.5
+                            }
+                        ],
+        "name":  "Contrafilé Grelhado",
+        "id":  "sub-11"
+    },
+    {
+        "instructions":  [
+                             "Tempere os camarões com sal refinado e alho picado.",
+                             "Salteie no azeite em frigideira bem quente por 2 a 3 minutos até ficarem rosados."
+                         ],
+        "macronutrients":  {
+                               "calories":  146,
+                               "carbs":  1,
+                               "fats":  6.3,
+                               "protein":  21.8
+                           },
+        "ingredients":  [
+                            {
+                                "ingredientId":  "ing-18",
+                                "weightGrams":  120
+                            },
+                            {
+                                "ingredientId":  "ing-43",
+                                "weightGrams":  5
+                            },
+                            {
+                                "ingredientId":  "ing-36",
+                                "weightGrams":  3
+                            },
+                            {
+                                "ingredientId":  "ing-74",
+                                "weightGrams":  1.5
+                            }
+                        ],
+        "name":  "Camarão Salteado no Alho",
+        "id":  "sub-12"
+    }
 ]
