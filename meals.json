@@ -713,5 +713,32 @@
     },
     "instructions": [],
     "deletedAt": "2026-07-24T02:58:11.914Z"
+  },
+  {
+    "id": "meal-1784864254541",
+    "category": "Almoço",
+    "mealName": "File com fritas",
+    "components": [
+      {
+        "type": "ingredient",
+        "id": "ing-31",
+        "weightGrams": 100
+      },
+      {
+        "type": "sub-recipe",
+        "id": "sub-1784864207277",
+        "weightGrams": 100
+      }
+    ],
+    "macronutrients": {
+      "calories": 270,
+      "carbs": 17,
+      "protein": 22.1,
+      "fats": 12.5
+    },
+    "instructions": [
+      "Frite a batata",
+      "Sirva com o filé"
+    ]
   }
 ]
