@@ -348,7 +348,7 @@
         "fats":  1.5,
         "id":  "ing-24",
         "carbs":  3.5,
-        "name":  "Whey Protein 100% Concentrado (Growth)",
+        "name":  "Whey Protein (Chocolate)",
         "macronutrients":  {
                                "calories":  122,
                                "carbs":  3.5,
@@ -985,5 +985,14 @@
         "baseWeightGrams":  30,
         "calories":  140,
         "protein":  6
+    },
+    {
+        "id":  "ing-72",
+        "name":  "Whey Protein (Baunilha)",
+        "fats":  1.5,
+        "carbs":  3.5,
+        "baseWeightGrams":  30,
+        "calories":  122,
+        "protein":  24
     }
 ]
