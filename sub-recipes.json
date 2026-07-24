@@ -392,5 +392,161 @@
                         ],
         "name":  "Camarão Salteado no Alho",
         "id":  "sub-12"
+    },
+    {
+        "instructions":  [
+                             "Em um bowl, misture o iogurte natural com alho picado, açafrão, raspas de limão, pimenta-do-reino e sal refinado.",
+                             "Envolva o peito de frango cru na marinada e deixe descansar na geladeira por 30 a 60 minutos antes de grelhar."
+                         ],
+        "macronutrients":  {
+                               "calories":  36,
+                               "carbs":  3.1,
+                               "fats":  1.5,
+                               "protein":  1.9
+                           },
+        "ingredients":  [
+                            {
+                                "ingredientId":  "ing-29",
+                                "weightGrams":  30
+                            },
+                            {
+                                "ingredientId":  "ing-36",
+                                "weightGrams":  3
+                            },
+                            {
+                                "ingredientId":  "ing-69",
+                                "weightGrams":  2
+                            },
+                            {
+                                "ingredientId":  "ing-75",
+                                "weightGrams":  1
+                            },
+                            {
+                                "ingredientId":  "ing-76",
+                                "weightGrams":  2
+                            },
+                            {
+                                "ingredientId":  "ing-74",
+                                "weightGrams":  2
+                            }
+                        ],
+        "name":  "Marinada Cremosa de Ervas (para Frango)",
+        "id":  "sub-13"
+    },
+    {
+        "instructions":  [
+                             "Misture a mostarda amarela, o mel de abelha, o suco de limão natural, a cebolinha picada e o sal refinado.",
+                             "Envolva o peito de frango na marinada agridoce por 30 a 60 minutos na geladeira."
+                         ],
+        "macronutrients":  {
+                               "calories":  48,
+                               "carbs":  9.3,
+                               "fats":  0.7,
+                               "protein":  0.8
+                           },
+        "ingredients":  [
+                            {
+                                "ingredientId":  "ing-52",
+                                "weightGrams":  15
+                            },
+                            {
+                                "ingredientId":  "ing-67",
+                                "weightGrams":  10
+                            },
+                            {
+                                "ingredientId":  "ing-78",
+                                "weightGrams":  15
+                            },
+                            {
+                                "ingredientId":  "ing-77",
+                                "weightGrams":  5
+                            },
+                            {
+                                "ingredientId":  "ing-74",
+                                "weightGrams":  2
+                            }
+                        ],
+        "name":  "Marinada Agridoce (para Frango)",
+        "id":  "sub-14"
+    },
+    {
+        "instructions":  [
+                             "Misture o molho shoyu, o mel de abelha, o alho picado, as sementes de gergelim e o sal refinado.",
+                             "Deixe o peito de frango marinar por 30 a 60 minutos antes de grelhar ou saltear."
+                         ],
+        "macronutrients":  {
+                               "calories":  70,
+                               "carbs":  10.4,
+                               "fats":  2.5,
+                               "protein":  2.2
+                           },
+        "ingredients":  [
+                            {
+                                "ingredientId":  "ing-48",
+                                "weightGrams":  15
+                            },
+                            {
+                                "ingredientId":  "ing-67",
+                                "weightGrams":  10
+                            },
+                            {
+                                "ingredientId":  "ing-70",
+                                "weightGrams":  5
+                            },
+                            {
+                                "ingredientId":  "ing-36",
+                                "weightGrams":  3
+                            },
+                            {
+                                "ingredientId":  "ing-74",
+                                "weightGrams":  1
+                            }
+                        ],
+        "name":  "Marinada Oriental (para Frango)",
+        "id":  "sub-15"
+    },
+    {
+        "instructions":  [
+                             "Em um recipiente, misture o iogurte natural, o suco de limão, o alho picado, o azeite de oliva, a cebolinha, a pimenta-do-reino e o sal refinado.",
+                             "Adicione o frango e deixe marinar na geladeira por 30 a 60 minutos."
+                         ],
+        "macronutrients":  {
+                               "calories":  82,
+                               "carbs":  3.3,
+                               "fats":  6.5,
+                               "protein":  2
+                           },
+        "ingredients":  [
+                            {
+                                "ingredientId":  "ing-29",
+                                "weightGrams":  30
+                            },
+                            {
+                                "ingredientId":  "ing-78",
+                                "weightGrams":  15
+                            },
+                            {
+                                "ingredientId":  "ing-36",
+                                "weightGrams":  3
+                            },
+                            {
+                                "ingredientId":  "ing-43",
+                                "weightGrams":  5
+                            },
+                            {
+                                "ingredientId":  "ing-77",
+                                "weightGrams":  5
+                            },
+                            {
+                                "ingredientId":  "ing-75",
+                                "weightGrams":  1
+                            },
+                            {
+                                "ingredientId":  "ing-74",
+                                "weightGrams":  2
+                            }
+                        ],
+        "name":  "Marinada Refrescante (para Frango)",
+        "id":  "sub-16"
     }
 ]
