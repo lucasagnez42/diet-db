@@ -7,7 +7,7 @@
       {
         "type": "sub-recipe",
         "id": "sub-1",
-        "weightGrams": 105
+        "weightGrams": 50
       },
       {
         "type": "ingredient",
@@ -16,15 +16,15 @@
       },
       {
         "type": "ingredient",
-        "id": "ing-3",
-        "weightGrams": 150
+        "id": "ing-15",
+        "weightGrams": 100
       }
     ],
     "macronutrients": {
-      "calories": 720,
-      "carbs": 43.1,
-      "protein": 62.65,
-      "fats": 32.2
+      "calories": 860,
+      "carbs": 148.6,
+      "protein": 37.9,
+      "fats": 9.7
     },
     "instructions": [
       "Grelhe o filé mignon temperado com sal e pimenta a gosto.",
