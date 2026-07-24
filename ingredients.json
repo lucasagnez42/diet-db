@@ -1,1052 +1,1187 @@
 [
-    {
-        "fats":  0.7,
-        "id":  "ing-1",
-        "carbs":  79,
-        "name":  "Arroz Branco (Cru)",
-        "macronutrients":  {
-                               "calories":  360,
-                               "carbs":  79,
-                               "fats":  0.7,
-                               "protein":  7
-                           },
-        "protein":  7,
-        "calories":  360,
-        "baseWeightGrams":  100
-    },
-    {
-        "fats":  2.5,
-        "id":  "ing-2",
-        "carbs":  73,
-        "name":  "Arroz Integral (Cru)",
-        "macronutrients":  {
-                               "calories":  360,
-                               "carbs":  73,
-                               "fats":  2.5,
-                               "protein":  8
-                           },
-        "protein":  8,
-        "calories":  360,
-        "baseWeightGrams":  100
-    },
-    {
-        "fats":  1.4,
-        "id":  "ing-3",
-        "carbs":  60,
-        "name":  "Feijão Carioca (Cru)",
-        "macronutrients":  {
-                               "calories":  330,
-                               "carbs":  60,
-                               "fats":  1.4,
-                               "protein":  20
-                           },
-        "protein":  20,
-        "calories":  330,
-        "baseWeightGrams":  100
-    },
-    {
-        "fats":  1.4,
-        "id":  "ing-4",
-        "carbs":  62,
-        "name":  "Feijão Preto (Cru)",
-        "macronutrients":  {
-                               "calories":  340,
-                               "carbs":  62,
-                               "fats":  1.4,
-                               "protein":  21
-                           },
-        "protein":  21,
-        "calories":  340,
-        "baseWeightGrams":  100
-    },
-    {
-        "fats":  0.3,
-        "id":  "ing-5",
-        "carbs":  89.2,
-        "name":  "Farinha de Mandioca (Torrada)",
-        "macronutrients":  {
-                               "calories":  360,
-                               "carbs":  89.2,
-                               "fats":  0.3,
-                               "protein":  1.2
-                           },
-        "protein":  1.2,
-        "calories":  360,
-        "baseWeightGrams":  100
-    },
-    {
-        "fats":  1.4,
-        "id":  "ing-6",
-        "carbs":  75,
-        "name":  "Farinha de Trigo (Crua)",
-        "macronutrients":  {
-                               "calories":  360,
-                               "carbs":  75,
-                               "fats":  1.4,
-                               "protein":  10
-                           },
-        "protein":  10,
-        "calories":  360,
-        "baseWeightGrams":  100
-    },
-    {
-        "fats":  0,
-        "id":  "ing-7",
-        "carbs":  60,
-        "name":  "Goma de Tapioca (Hidratada)",
-        "macronutrients":  {
-                               "calories":  240,
-                               "carbs":  60,
-                               "fats":  0,
-                               "protein":  0
-                           },
-        "protein":  0,
-        "calories":  240,
-        "baseWeightGrams":  100
-    },
-    {
-        "fats":  1.8,
-        "id":  "ing-8",
-        "carbs":  79,
-        "name":  "Fubá de Milho",
-        "macronutrients":  {
-                               "calories":  370,
-                               "carbs":  79,
-                               "fats":  1.8,
-                               "protein":  7.2
-                           },
-        "protein":  7.2,
-        "calories":  370,
-        "baseWeightGrams":  100
-    },
-    {
-        "fats":  8.5,
-        "id":  "ing-9",
-        "carbs":  66,
-        "name":  "Aveia em Flocos",
-        "macronutrients":  {
-                               "calories":  394,
-                               "carbs":  66,
-                               "fats":  8.5,
-                               "protein":  13.9
-                           },
-        "protein":  13.9,
-        "calories":  394,
-        "baseWeightGrams":  100
-    },
-    {
-        "fats":  1.5,
-        "id":  "ing-10",
-        "carbs":  25,
-        "name":  "Pão Artesano Tradicional",
-        "macronutrients":  {
-                               "calories":  130,
-                               "carbs":  25,
-                               "fats":  1.5,
-                               "protein":  4.5
-                           },
-        "protein":  4.5,
-        "calories":  130,
-        "baseWeightGrams":  50
-    },
-    {
-        "fats":  2.5,
-        "id":  "ing-11",
-        "carbs":  0,
-        "name":  "Peito de Frango (Cru / sem pele)",
-        "macronutrients":  {
-                               "calories":  120,
-                               "carbs":  0,
-                               "fats":  2.5,
-                               "protein":  23
-                           },
-        "protein":  23,
-        "calories":  120,
-        "baseWeightGrams":  100
-    },
-    {
-        "fats":  5,
-        "id":  "ing-12",
-        "carbs":  0,
-        "name":  "Carne Moída Patinho (Cru)",
-        "macronutrients":  {
-                               "calories":  135,
-                               "carbs":  0,
-                               "fats":  5,
-                               "protein":  21.5
-                           },
-        "protein":  21.5,
-        "calories":  135,
-        "baseWeightGrams":  100
-    },
-    {
-        "fats":  7,
-        "id":  "ing-13",
-        "carbs":  0,
-        "name":  "Alcatra (Crua)",
-        "macronutrients":  {
-                               "calories":  150,
-                               "carbs":  0,
-                               "fats":  7,
-                               "protein":  21
-                           },
-        "protein":  21,
-        "calories":  150,
-        "baseWeightGrams":  100
-    },
-    {
-        "fats":  9.5,
-        "id":  "ing-14",
-        "carbs":  0,
-        "name":  "Contrafilé (Cru)",
-        "macronutrients":  {
-                               "calories":  170,
-                               "carbs":  0,
-                               "fats":  9.5,
-                               "protein":  20.5
-                           },
-        "protein":  20.5,
-        "calories":  170,
-        "baseWeightGrams":  100
-    },
-    {
-        "fats":  5.5,
-        "id":  "ing-15",
-        "carbs":  0,
-        "name":  "Filé Mignon (Cru)",
-        "macronutrients":  {
-                               "calories":  140,
-                               "carbs":  0,
-                               "fats":  5.5,
-                               "protein":  22
-                           },
-        "protein":  22,
-        "calories":  140,
-        "baseWeightGrams":  100
-    },
-    {
-        "fats":  1.7,
-        "id":  "ing-16",
-        "carbs":  0,
-        "name":  "Filé de Tilápia (Cru)",
-        "macronutrients":  {
-                               "calories":  96,
-                               "carbs":  0,
-                               "fats":  1.7,
-                               "protein":  20
-                           },
-        "protein":  20,
-        "calories":  96,
-        "baseWeightGrams":  100
-    },
-    {
-        "fats":  13,
-        "id":  "ing-17",
-        "carbs":  0,
-        "name":  "Salmão (Cru)",
-        "macronutrients":  {
-                               "calories":  208,
-                               "carbs":  0,
-                               "fats":  13,
-                               "protein":  20
-                           },
-        "protein":  20,
-        "calories":  208,
-        "baseWeightGrams":  100
-    },
-    {
-        "fats":  1.1,
-        "id":  "ing-18",
-        "carbs":  0,
-        "name":  "Camarão (Cru)",
-        "macronutrients":  {
-                               "calories":  85,
-                               "carbs":  0,
-                               "fats":  1.1,
-                               "protein":  18
-                           },
-        "protein":  18,
-        "calories":  85,
-        "baseWeightGrams":  100
-    },
-    {
-        "fats":  25,
-        "id":  "ing-19",
-        "carbs":  2,
-        "name":  "Linguiça Calabresa",
-        "macronutrients":  {
-                               "calories":  300,
-                               "carbs":  2,
-                               "fats":  25,
-                               "protein":  16
-                           },
-        "protein":  16,
-        "calories":  300,
-        "baseWeightGrams":  100
-    },
-    {
-        "fats":  53,
-        "id":  "ing-20",
-        "carbs":  1.5,
-        "name":  "Bacon em Cubos",
-        "macronutrients":  {
-                               "calories":  540,
-                               "carbs":  1.5,
-                               "fats":  53,
-                               "protein":  14
-                           },
-        "protein":  14,
-        "calories":  540,
-        "baseWeightGrams":  100
-    },
-    {
-        "fats":  9.5,
-        "id":  "ing-21",
-        "carbs":  1.6,
-        "name":  "Ovo de Galinha Inteiro (Cru)",
-        "macronutrients":  {
-                               "calories":  143,
-                               "carbs":  1.6,
-                               "fats":  9.5,
-                               "protein":  13
-                           },
-        "protein":  13,
-        "calories":  143,
-        "baseWeightGrams":  100
-    },
-    {
-        "fats":  3.2,
-        "id":  "ing-22",
-        "carbs":  4.8,
-        "name":  "Leite Integral",
-        "macronutrients":  {
-                               "calories":  61,
-                               "carbs":  4.8,
-                               "fats":  3.2,
-                               "protein":  3.2
-                           },
-        "protein":  3.2,
-        "calories":  61,
-        "baseWeightGrams":  100
-    },
-    {
-        "fats":  0.2,
-        "id":  "ing-23",
-        "carbs":  4.8,
-        "name":  "Leite Desnatado",
-        "macronutrients":  {
-                               "calories":  35,
-                               "carbs":  4.8,
-                               "fats":  0.2,
-                               "protein":  3.2
-                           },
-        "protein":  3.2,
-        "calories":  35,
-        "baseWeightGrams":  100
-    },
-    {
-        "fats":  1.5,
-        "id":  "ing-24",
-        "carbs":  3.5,
-        "name":  "Whey Protein (Chocolate)",
-        "macronutrients":  {
-                               "calories":  122,
-                               "carbs":  3.5,
-                               "fats":  1.5,
-                               "protein":  24
-                           },
-        "protein":  24,
-        "calories":  122,
-        "baseWeightGrams":  30
-    },
-    {
-        "fats":  20,
-        "id":  "ing-25",
-        "carbs":  3,
-        "name":  "Queijo Mussarela",
-        "macronutrients":  {
-                               "calories":  280,
-                               "carbs":  3,
-                               "fats":  20,
-                               "protein":  22
-                           },
-        "protein":  22,
-        "calories":  280,
-        "baseWeightGrams":  100
-    },
-    {
-        "fats":  17,
-        "id":  "ing-26",
-        "carbs":  3.2,
-        "name":  "Queijo Minas Frescal",
-        "macronutrients":  {
-                               "calories":  240,
-                               "carbs":  3.2,
-                               "fats":  17,
-                               "protein":  17.4
-                           },
-        "protein":  17.4,
-        "calories":  240,
-        "baseWeightGrams":  100
-    },
-    {
-        "fats":  6.5,
-        "id":  "ing-27",
-        "carbs":  1,
-        "name":  "Requeijão Cremoso",
-        "macronutrients":  {
-                               "calories":  75,
-                               "carbs":  1,
-                               "fats":  6.5,
-                               "protein":  3
-                           },
-        "protein":  3,
-        "calories":  75,
-        "baseWeightGrams":  30
-    },
-    {
-        "fats":  7,
-        "id":  "ing-28",
-        "carbs":  1.5,
-        "name":  "Cream Cheese",
-        "macronutrients":  {
-                               "calories":  75,
-                               "carbs":  1.5,
-                               "fats":  7,
-                               "protein":  1.8
-                           },
-        "protein":  1.8,
-        "calories":  75,
-        "baseWeightGrams":  30
-    },
-    {
-        "fats":  5,
-        "id":  "ing-29",
-        "carbs":  6,
-        "name":  "Iogurte Grego",
-        "macronutrients":  {
-                               "calories":  100,
-                               "carbs":  6,
-                               "fats":  5,
-                               "protein":  6
-                           },
-        "protein":  6,
-        "calories":  100,
-        "baseWeightGrams":  100
-    },
-    {
-        "fats":  8.1,
-        "id":  "ing-30",
-        "carbs":  0,
-        "name":  "Manteiga com Sal",
-        "macronutrients":  {
-                               "calories":  72,
-                               "carbs":  0,
-                               "fats":  8.1,
-                               "protein":  0.1
-                           },
-        "protein":  0.1,
-        "calories":  72,
-        "baseWeightGrams":  10
-    },
-    {
-        "fats":  0.1,
-        "id":  "ing-31",
-        "carbs":  17,
-        "name":  "Batata Inglesa (Crua)",
-        "macronutrients":  {
-                               "calories":  77,
-                               "carbs":  17,
-                               "fats":  0.1,
-                               "protein":  2
-                           },
-        "protein":  2,
-        "calories":  77,
-        "baseWeightGrams":  100
-    },
-    {
-        "fats":  0.3,
-        "id":  "ing-32",
-        "carbs":  38,
-        "name":  "Mandioca / Macaxeira (Crua)",
-        "macronutrients":  {
-                               "calories":  160,
-                               "carbs":  38,
-                               "fats":  0.3,
-                               "protein":  1.3
-                           },
-        "protein":  1.3,
-        "calories":  160,
-        "baseWeightGrams":  100
-    },
-    {
-        "fats":  0.2,
-        "id":  "ing-33",
-        "carbs":  9.6,
-        "name":  "Cenoura (Crua)",
-        "macronutrients":  {
-                               "calories":  41,
-                               "carbs":  9.6,
-                               "fats":  0.2,
-                               "protein":  0.9
-                           },
-        "protein":  0.9,
-        "calories":  41,
-        "baseWeightGrams":  100
-    },
-    {
-        "fats":  0.2,
-        "id":  "ing-34",
-        "carbs":  3.9,
-        "name":  "Tomate Fresco",
-        "macronutrients":  {
-                               "calories":  18,
-                               "carbs":  3.9,
-                               "fats":  0.2,
-                               "protein":  0.9
-                           },
-        "protein":  0.9,
-        "calories":  18,
-        "baseWeightGrams":  100
-    },
-    {
-        "fats":  0.1,
-        "id":  "ing-35",
-        "carbs":  9.3,
-        "name":  "Cebola Branca (Crua)",
-        "macronutrients":  {
-                               "calories":  40,
-                               "carbs":  9.3,
-                               "fats":  0.1,
-                               "protein":  1.1
-                           },
-        "protein":  1.1,
-        "calories":  40,
-        "baseWeightGrams":  100
-    },
-    {
-        "fats":  0.1,
-        "id":  "ing-36",
-        "carbs":  3.3,
-        "name":  "Alho Fresco",
-        "macronutrients":  {
-                               "calories":  15,
-                               "carbs":  3.3,
-                               "fats":  0.1,
-                               "protein":  0.6
-                           },
-        "protein":  0.6,
-        "calories":  15,
-        "baseWeightGrams":  10
-    },
-    {
-        "fats":  0.2,
-        "id":  "ing-37",
-        "carbs":  4.6,
-        "name":  "Pimentão Verde (Cru)",
-        "macronutrients":  {
-                               "calories":  20,
-                               "carbs":  4.6,
-                               "fats":  0.2,
-                               "protein":  0.9
-                           },
-        "protein":  0.9,
-        "calories":  20,
-        "baseWeightGrams":  100
-    },
-    {
-        "fats":  0.5,
-        "id":  "ing-38",
-        "carbs":  4.3,
-        "name":  "Couve-Manteiga (Crua)",
-        "macronutrients":  {
-                               "calories":  27,
-                               "carbs":  4.3,
-                               "fats":  0.5,
-                               "protein":  2.9
-                           },
-        "protein":  2.9,
-        "calories":  27,
-        "baseWeightGrams":  100
-    },
-    {
-        "fats":  0.2,
-        "id":  "ing-39",
-        "carbs":  2.9,
-        "name":  "Alface Crespa (Crua)",
-        "macronutrients":  {
-                               "calories":  15,
-                               "carbs":  2.9,
-                               "fats":  0.2,
-                               "protein":  1.4
-                           },
-        "protein":  1.4,
-        "calories":  15,
-        "baseWeightGrams":  100
-    },
-    {
-        "fats":  0.4,
-        "id":  "ing-40",
-        "carbs":  6.6,
-        "name":  "Brócolis (Cru)",
-        "macronutrients":  {
-                               "calories":  34,
-                               "carbs":  6.6,
-                               "fats":  0.4,
-                               "protein":  2.8
-                           },
-        "protein":  2.8,
-        "calories":  34,
-        "baseWeightGrams":  100
-    },
-    {
-        "fats":  0.3,
-        "id":  "ing-41",
-        "carbs":  26,
-        "name":  "Banana Prata (Crua)",
-        "macronutrients":  {
-                               "calories":  98,
-                               "carbs":  26,
-                               "fats":  0.3,
-                               "protein":  1.3
-                           },
-        "protein":  1.3,
-        "calories":  98,
-        "baseWeightGrams":  100
-    },
-    {
-        "fats":  0.2,
-        "id":  "ing-42",
-        "carbs":  13.8,
-        "name":  "Maçã (Crua)",
-        "macronutrients":  {
-                               "calories":  52,
-                               "carbs":  13.8,
-                               "fats":  0.2,
-                               "protein":  0.3
-                           },
-        "protein":  0.3,
-        "calories":  52,
-        "baseWeightGrams":  100
-    },
-    {
-        "fats":  10,
-        "id":  "ing-43",
-        "carbs":  0,
-        "name":  "Azeite de Oliva Extra Virgem",
-        "macronutrients":  {
-                               "calories":  88,
-                               "carbs":  0,
-                               "fats":  10,
-                               "protein":  0
-                           },
-        "protein":  0,
-        "calories":  88,
-        "baseWeightGrams":  10
-    },
-    {
-        "fats":  10,
-        "id":  "ing-44",
-        "carbs":  0,
-        "name":  "Óleo de Soja / Girassol",
-        "macronutrients":  {
-                               "calories":  88,
-                               "carbs":  0,
-                               "fats":  10,
-                               "protein":  0
-                           },
-        "protein":  0,
-        "calories":  88,
-        "baseWeightGrams":  10
-    },
-    {
-        "fats":  0.1,
-        "id":  "ing-45",
-        "carbs":  5.3,
-        "name":  "Ketchup",
-        "macronutrients":  {
-                               "calories":  22,
-                               "carbs":  5.3,
-                               "fats":  0.1,
-                               "protein":  0.2
-                           },
-        "protein":  0.2,
-        "calories":  22,
-        "baseWeightGrams":  20
-    },
-    {
-        "fats":  0.2,
-        "id":  "ing-46",
-        "carbs":  7,
-        "name":  "Molho de Tomate Tradicional",
-        "macronutrients":  {
-                               "calories":  35,
-                               "carbs":  7,
-                               "fats":  0.2,
-                               "protein":  1.5
-                           },
-        "protein":  1.5,
-        "calories":  35,
-        "baseWeightGrams":  100
-    },
-    {
-        "fats":  0.1,
-        "id":  "ing-47",
-        "carbs":  3.8,
-        "name":  "Extrato de Tomate",
-        "macronutrients":  {
-                               "calories":  18,
-                               "carbs":  3.8,
-                               "fats":  0.1,
-                               "protein":  0.9
-                           },
-        "protein":  0.9,
-        "calories":  18,
-        "baseWeightGrams":  30
-    },
-    {
-        "fats":  0,
-        "id":  "ing-48",
-        "carbs":  1.2,
-        "name":  "Molho Shoyu",
-        "macronutrients":  {
-                               "calories":  10,
-                               "carbs":  1.2,
-                               "fats":  0,
-                               "protein":  1.1
-                           },
-        "protein":  1.1,
-        "calories":  10,
-        "baseWeightGrams":  15
-    },
-    {
-        "fats":  0,
-        "id":  "ing-49",
-        "carbs":  5.4,
-        "name":  "Molho Teriyaki",
-        "macronutrients":  {
-                               "calories":  24,
-                               "carbs":  5.4,
-                               "fats":  0,
-                               "protein":  0.6
-                           },
-        "protein":  0.6,
-        "calories":  24,
-        "baseWeightGrams":  15
-    },
-    {
-        "fats":  8.8,
-        "id":  "ing-50",
-        "carbs":  0.5,
-        "name":  "Maionese Tradicional",
-        "macronutrients":  {
-                               "calories":  80,
-                               "carbs":  0.5,
-                               "fats":  8.8,
-                               "protein":  0.1
-                           },
-        "protein":  0.1,
-        "calories":  80,
-        "baseWeightGrams":  12
-    },
-    {
-        "fats":  3.3,
-        "id":  "ing-51",
-        "carbs":  1.2,
-        "name":  "Maionese Light",
-        "macronutrients":  {
-                               "calories":  35,
-                               "carbs":  1.2,
-                               "fats":  3.3,
-                               "protein":  0.1
-                           },
-        "protein":  0.1,
-        "calories":  35,
-        "baseWeightGrams":  12
-    },
-    {
-        "fats":  0.4,
-        "id":  "ing-52",
-        "carbs":  0.6,
-        "name":  "Mostarda Amarela",
-        "macronutrients":  {
-                               "calories":  9,
-                               "carbs":  0.6,
-                               "fats":  0.4,
-                               "protein":  0.5
-                           },
-        "protein":  0.5,
-        "calories":  9,
-        "baseWeightGrams":  10
-    },
-    {
-        "fats":  0,
-        "id":  "ing-53",
-        "carbs":  17,
-        "name":  "Iced Tea Pêssego",
-        "macronutrients":  {
-                               "calories":  70,
-                               "carbs":  17,
-                               "fats":  0,
-                               "protein":  0
-                           },
-        "protein":  0,
-        "calories":  70,
-        "baseWeightGrams":  200
-    },
-    {
-        "fats":  0,
-        "id":  "ing-54",
-        "carbs":  17,
-        "name":  "Iced Tea Limão",
-        "macronutrients":  {
-                               "calories":  70,
-                               "carbs":  17,
-                               "fats":  0,
-                               "protein":  0
-                           },
-        "protein":  0,
-        "calories":  70,
-        "baseWeightGrams":  200
-    },
-    {
-        "fats":  0.4,
-        "id":  "ing-55",
-        "carbs":  21,
-        "name":  "Suco de Laranja Natural",
-        "macronutrients":  {
-                               "calories":  90,
-                               "carbs":  21,
-                               "fats":  0.4,
-                               "protein":  1.4
-                           },
-        "protein":  1.4,
-        "calories":  90,
-        "baseWeightGrams":  200
-    },
-    {
-        "fats":  0,
-        "id":  "ing-56",
-        "carbs":  37,
-        "name":  "Coca-Cola Tradicional",
-        "macronutrients":  {
-                               "calories":  149,
-                               "carbs":  37,
-                               "fats":  0,
-                               "protein":  0
-                           },
-        "protein":  0,
-        "calories":  149,
-        "baseWeightGrams":  350
-    },
-    {
-        "fats":  0,
-        "id":  "ing-57",
-        "carbs":  0,
-        "name":  "Coca-Cola Zero",
-        "macronutrients":  {
-                               "calories":  0,
-                               "carbs":  0,
-                               "fats":  0,
-                               "protein":  0
-                           },
-        "protein":  0,
-        "calories":  0,
-        "baseWeightGrams":  350
-    },
-    {
-        "fats":  1.2,
-        "id":  "ing-58",
-        "carbs":  14,
-        "name":  "YoPro Danone (15g Proteína)",
-        "macronutrients":  {
-                               "calories":  125,
-                               "carbs":  14,
-                               "fats":  1.2,
-                               "protein":  15
-                           },
-        "protein":  15,
-        "calories":  125,
-        "baseWeightGrams":  250
-    },
-    {
-        "id":  "ing-59",
-        "name":  "Macarrão (Cru)",
-        "fats":  1.5,
-        "carbs":  74,
-        "baseWeightGrams":  100,
-        "calories":  371,
-        "protein":  13
-    },
-    {
-        "id":  "ing-60",
-        "name":  "Cacau em Pó 100%",
-        "fats":  1.2,
-        "carbs":  3,
-        "baseWeightGrams":  10,
-        "calories":  38,
-        "protein":  2
-    },
-    {
-        "id":  "ing-61",
-        "name":  "Bicarbonato / Fermento em Pó",
-        "fats":  0,
-        "carbs":  0,
-        "baseWeightGrams":  5,
-        "calories":  0,
-        "protein":  0
-    },
-    {
-        "id":  "ing-62",
-        "name":  "Claras de Ovo Líquidas",
-        "fats":  0.2,
-        "carbs":  0.7,
-        "baseWeightGrams":  100,
-        "calories":  52,
-        "protein":  11
-    },
-    {
-        "id":  "ing-63",
-        "name":  "Adoçante Culinário / Stévia",
-        "fats":  0,
-        "carbs":  0,
-        "baseWeightGrams":  5,
-        "calories":  0,
-        "protein":  0
-    },
-    {
-        "id":  "ing-64",
-        "name":  "Chocolate Amargo 70%",
-        "fats":  8,
-        "carbs":  9,
-        "baseWeightGrams":  20,
-        "calories":  116,
-        "protein":  1.6
-    },
-    {
-        "id":  "ing-65",
-        "name":  "Sementes de Chia",
-        "fats":  3.1,
-        "carbs":  4.2,
-        "baseWeightGrams":  10,
-        "calories":  49,
-        "protein":  1.7
-    },
-    {
-        "id":  "ing-66",
-        "name":  "Café Expresso / Solúvel",
-        "fats":  0,
-        "carbs":  0.3,
-        "baseWeightGrams":  50,
-        "calories":  2,
-        "protein":  0.1
-    },
-    {
-        "id":  "ing-67",
-        "name":  "Mel de Abelha",
-        "fats":  0,
-        "carbs":  12.3,
-        "baseWeightGrams":  15,
-        "calories":  46,
-        "protein":  0.1
-    },
-    {
-        "id":  "ing-68",
-        "name":  "Páprica Doce / Picante",
-        "fats":  0.6,
-        "carbs":  2.7,
-        "baseWeightGrams":  5,
-        "calories":  14,
-        "protein":  0.7
-    },
-    {
-        "id":  "ing-69",
-        "name":  "Açafrão / Cúrcuma",
-        "fats":  0.5,
-        "carbs":  3.2,
-        "baseWeightGrams":  5,
-        "calories":  15,
-        "protein":  0.4
-    },
-    {
-        "id":  "ing-70",
-        "name":  "Gergelim",
-        "fats":  2.5,
-        "carbs":  1.2,
-        "baseWeightGrams":  5,
-        "calories":  29,
-        "protein":  0.9
-    },
-    {
-        "id":  "ing-71",
-        "name":  "Pepperoni / Salame Light",
-        "fats":  12,
-        "carbs":  1,
-        "baseWeightGrams":  30,
-        "calories":  140,
-        "protein":  6
-    },
-    {
-        "id":  "ing-72",
-        "name":  "Whey Protein (Baunilha)",
-        "fats":  1.5,
-        "carbs":  3.5,
-        "baseWeightGrams":  30,
-        "calories":  122,
-        "protein":  24
-    },
-    {
-        "id":  "ing-73",
-        "name":  "Farinha de Aveia",
-        "fats":  8.5,
-        "carbs":  66,
-        "baseWeightGrams":  100,
-        "calories":  394,
-        "protein":  13.9
-    },
-    {
-        "id":  "ing-74",
-        "name":  "Sal Refinado",
-        "fats":  0,
-        "carbs":  0,
-        "baseWeightGrams":  5,
-        "calories":  0,
-        "protein":  0
-    },
-    {
-        "id":  "ing-75",
-        "name":  "Pimenta-do-Reino",
-        "fats":  0,
-        "carbs":  0,
-        "baseWeightGrams":  5,
-        "calories":  0,
-        "protein":  0
-    },
-    {
-        "id":  "ing-76",
-        "name":  "Raspas de Limão",
-        "fats":  0,
-        "carbs":  0,
-        "baseWeightGrams":  5,
-        "calories":  0,
-        "protein":  0
-    },
-    {
-        "id":  "ing-77",
-        "name":  "Cebolinha Fresca",
-        "fats":  0.1,
-        "carbs":  0.5,
-        "baseWeightGrams":  10,
-        "calories":  3,
-        "protein":  0.2
-    },
-    {
-        "id":  "ing-78",
-        "name":  "Suco de Limão Natural",
-        "fats":  0,
-        "carbs":  1.4,
-        "baseWeightGrams":  20,
-        "calories":  5,
-        "protein":  0.1
+  {
+    "fats": 0.7,
+    "id": "ing-1",
+    "carbs": 79,
+    "name": "Arroz Branco (Cru)",
+    "macronutrients": {
+      "calories": 360,
+      "carbs": 79,
+      "protein": 7,
+      "fats": 0.7
+    },
+    "protein": 7,
+    "calories": 360,
+    "baseWeightGrams": 100
+  },
+  {
+    "fats": 2.5,
+    "id": "ing-2",
+    "carbs": 73,
+    "name": "Arroz Integral (Cru)",
+    "macronutrients": {
+      "calories": 360,
+      "carbs": 73,
+      "protein": 8,
+      "fats": 2.5
+    },
+    "protein": 8,
+    "calories": 360,
+    "baseWeightGrams": 100
+  },
+  {
+    "fats": 1.4,
+    "id": "ing-3",
+    "carbs": 60,
+    "name": "Feijão Carioca (Cru)",
+    "macronutrients": {
+      "calories": 330,
+      "carbs": 60,
+      "protein": 20,
+      "fats": 1.4
+    },
+    "protein": 20,
+    "calories": 330,
+    "baseWeightGrams": 100
+  },
+  {
+    "fats": 1.4,
+    "id": "ing-4",
+    "carbs": 62,
+    "name": "Feijão Preto (Cru)",
+    "macronutrients": {
+      "calories": 340,
+      "carbs": 62,
+      "protein": 21,
+      "fats": 1.4
+    },
+    "protein": 21,
+    "calories": 340,
+    "baseWeightGrams": 100
+  },
+  {
+    "fats": 0.3,
+    "id": "ing-5",
+    "carbs": 89.2,
+    "name": "Farinha de Mandioca (Torrada)",
+    "macronutrients": {
+      "calories": 360,
+      "carbs": 89.2,
+      "protein": 1.2,
+      "fats": 0.3
+    },
+    "protein": 1.2,
+    "calories": 360,
+    "baseWeightGrams": 100
+  },
+  {
+    "fats": 1.4,
+    "id": "ing-6",
+    "carbs": 75,
+    "name": "Farinha de Trigo (Crua)",
+    "macronutrients": {
+      "calories": 360,
+      "carbs": 75,
+      "protein": 10,
+      "fats": 1.4
+    },
+    "protein": 10,
+    "calories": 360,
+    "baseWeightGrams": 100
+  },
+  {
+    "fats": 0,
+    "id": "ing-7",
+    "carbs": 60,
+    "name": "Goma de Tapioca (Hidratada)",
+    "macronutrients": {
+      "calories": 240,
+      "carbs": 60,
+      "protein": 0,
+      "fats": 0
+    },
+    "protein": 0,
+    "calories": 240,
+    "baseWeightGrams": 100
+  },
+  {
+    "fats": 1.8,
+    "id": "ing-8",
+    "carbs": 79,
+    "name": "Fubá de Milho",
+    "macronutrients": {
+      "calories": 370,
+      "carbs": 79,
+      "protein": 7.2,
+      "fats": 1.8
+    },
+    "protein": 7.2,
+    "calories": 370,
+    "baseWeightGrams": 100
+  },
+  {
+    "fats": 8.5,
+    "id": "ing-9",
+    "carbs": 66,
+    "name": "Aveia em Flocos",
+    "macronutrients": {
+      "calories": 394,
+      "carbs": 66,
+      "protein": 13.9,
+      "fats": 8.5
+    },
+    "protein": 13.9,
+    "calories": 394,
+    "baseWeightGrams": 100
+  },
+  {
+    "fats": 1.5,
+    "id": "ing-10",
+    "carbs": 25,
+    "name": "Pão Artesano Tradicional",
+    "macronutrients": {
+      "calories": 130,
+      "carbs": 25,
+      "protein": 4.5,
+      "fats": 1.5
+    },
+    "protein": 4.5,
+    "calories": 130,
+    "baseWeightGrams": 50
+  },
+  {
+    "fats": 2.5,
+    "id": "ing-11",
+    "carbs": 0,
+    "name": "Peito de Frango (Cru / sem pele)",
+    "macronutrients": {
+      "calories": 120,
+      "carbs": 0,
+      "protein": 23,
+      "fats": 2.5
+    },
+    "protein": 23,
+    "calories": 120,
+    "baseWeightGrams": 100
+  },
+  {
+    "fats": 5,
+    "id": "ing-12",
+    "carbs": 0,
+    "name": "Carne Moída Patinho (Cru)",
+    "macronutrients": {
+      "calories": 135,
+      "carbs": 0,
+      "protein": 21.5,
+      "fats": 5
+    },
+    "protein": 21.5,
+    "calories": 135,
+    "baseWeightGrams": 100
+  },
+  {
+    "fats": 7,
+    "id": "ing-13",
+    "carbs": 0,
+    "name": "Alcatra (Crua)",
+    "macronutrients": {
+      "calories": 150,
+      "carbs": 0,
+      "protein": 21,
+      "fats": 7
+    },
+    "protein": 21,
+    "calories": 150,
+    "baseWeightGrams": 100
+  },
+  {
+    "fats": 9.5,
+    "id": "ing-14",
+    "carbs": 0,
+    "name": "Contrafilé (Cru)",
+    "macronutrients": {
+      "calories": 170,
+      "carbs": 0,
+      "protein": 20.5,
+      "fats": 9.5
+    },
+    "protein": 20.5,
+    "calories": 170,
+    "baseWeightGrams": 100
+  },
+  {
+    "fats": 5.5,
+    "id": "ing-15",
+    "carbs": 0,
+    "name": "Filé Mignon (Cru)",
+    "macronutrients": {
+      "calories": 140,
+      "carbs": 0,
+      "protein": 22,
+      "fats": 5.5
+    },
+    "protein": 22,
+    "calories": 140,
+    "baseWeightGrams": 100
+  },
+  {
+    "fats": 1.7,
+    "id": "ing-16",
+    "carbs": 0,
+    "name": "Filé de Tilápia (Cru)",
+    "macronutrients": {
+      "calories": 96,
+      "carbs": 0,
+      "protein": 20,
+      "fats": 1.7
+    },
+    "protein": 20,
+    "calories": 96,
+    "baseWeightGrams": 100
+  },
+  {
+    "fats": 13,
+    "id": "ing-17",
+    "carbs": 0,
+    "name": "Salmão (Cru)",
+    "macronutrients": {
+      "calories": 208,
+      "carbs": 0,
+      "protein": 20,
+      "fats": 13
+    },
+    "protein": 20,
+    "calories": 208,
+    "baseWeightGrams": 100
+  },
+  {
+    "fats": 1.1,
+    "id": "ing-18",
+    "carbs": 0,
+    "name": "Camarão (Cru)",
+    "macronutrients": {
+      "calories": 85,
+      "carbs": 0,
+      "protein": 18,
+      "fats": 1.1
+    },
+    "protein": 18,
+    "calories": 85,
+    "baseWeightGrams": 100
+  },
+  {
+    "fats": 25,
+    "id": "ing-19",
+    "carbs": 2,
+    "name": "Linguiça Calabresa",
+    "macronutrients": {
+      "calories": 300,
+      "carbs": 2,
+      "protein": 16,
+      "fats": 25
+    },
+    "protein": 16,
+    "calories": 300,
+    "baseWeightGrams": 100
+  },
+  {
+    "fats": 53,
+    "id": "ing-20",
+    "carbs": 1.5,
+    "name": "Bacon em Cubos",
+    "macronutrients": {
+      "calories": 540,
+      "carbs": 1.5,
+      "protein": 14,
+      "fats": 53
+    },
+    "protein": 14,
+    "calories": 540,
+    "baseWeightGrams": 100
+  },
+  {
+    "fats": 9.5,
+    "id": "ing-21",
+    "carbs": 1.6,
+    "name": "Ovo de Galinha Inteiro (Cru)",
+    "macronutrients": {
+      "calories": 143,
+      "carbs": 1.6,
+      "protein": 13,
+      "fats": 9.5
+    },
+    "protein": 13,
+    "calories": 143,
+    "baseWeightGrams": 100
+  },
+  {
+    "fats": 3.2,
+    "id": "ing-22",
+    "carbs": 4.8,
+    "name": "Leite Integral",
+    "macronutrients": {
+      "calories": 61,
+      "carbs": 4.8,
+      "protein": 3.2,
+      "fats": 3.2
+    },
+    "protein": 3.2,
+    "calories": 61,
+    "baseWeightGrams": 100
+  },
+  {
+    "fats": 0.2,
+    "id": "ing-23",
+    "carbs": 4.8,
+    "name": "Leite Desnatado",
+    "macronutrients": {
+      "calories": 35,
+      "carbs": 4.8,
+      "protein": 3.2,
+      "fats": 0.2
+    },
+    "protein": 3.2,
+    "calories": 35,
+    "baseWeightGrams": 100
+  },
+  {
+    "fats": 1.5,
+    "id": "ing-24",
+    "carbs": 3.5,
+    "name": "Whey Protein (Chocolate)",
+    "macronutrients": {
+      "calories": 122,
+      "carbs": 3.5,
+      "protein": 24,
+      "fats": 1.5
+    },
+    "protein": 24,
+    "calories": 122,
+    "baseWeightGrams": 30
+  },
+  {
+    "fats": 20,
+    "id": "ing-25",
+    "carbs": 3,
+    "name": "Queijo Mussarela",
+    "macronutrients": {
+      "calories": 280,
+      "carbs": 3,
+      "protein": 22,
+      "fats": 20
+    },
+    "protein": 22,
+    "calories": 280,
+    "baseWeightGrams": 100
+  },
+  {
+    "fats": 17,
+    "id": "ing-26",
+    "carbs": 3.2,
+    "name": "Queijo Minas Frescal",
+    "macronutrients": {
+      "calories": 240,
+      "carbs": 3.2,
+      "protein": 17.4,
+      "fats": 17
+    },
+    "protein": 17.4,
+    "calories": 240,
+    "baseWeightGrams": 100
+  },
+  {
+    "fats": 6.5,
+    "id": "ing-27",
+    "carbs": 1,
+    "name": "Requeijão Cremoso",
+    "macronutrients": {
+      "calories": 75,
+      "carbs": 1,
+      "protein": 3,
+      "fats": 6.5
+    },
+    "protein": 3,
+    "calories": 75,
+    "baseWeightGrams": 30
+  },
+  {
+    "fats": 7,
+    "id": "ing-28",
+    "carbs": 1.5,
+    "name": "Cream Cheese",
+    "macronutrients": {
+      "calories": 75,
+      "carbs": 1.5,
+      "protein": 1.8,
+      "fats": 7
+    },
+    "protein": 1.8,
+    "calories": 75,
+    "baseWeightGrams": 30
+  },
+  {
+    "fats": 5,
+    "id": "ing-29",
+    "carbs": 6,
+    "name": "Iogurte Grego",
+    "macronutrients": {
+      "calories": 100,
+      "carbs": 6,
+      "protein": 6,
+      "fats": 5
+    },
+    "protein": 6,
+    "calories": 100,
+    "baseWeightGrams": 100
+  },
+  {
+    "fats": 8.1,
+    "id": "ing-30",
+    "carbs": 0,
+    "name": "Manteiga com Sal",
+    "macronutrients": {
+      "calories": 72,
+      "carbs": 0,
+      "protein": 0.1,
+      "fats": 8.1
+    },
+    "protein": 0.1,
+    "calories": 72,
+    "baseWeightGrams": 10
+  },
+  {
+    "fats": 0.1,
+    "id": "ing-31",
+    "carbs": 17,
+    "name": "Batata Inglesa (Crua)",
+    "macronutrients": {
+      "calories": 77,
+      "carbs": 17,
+      "protein": 2,
+      "fats": 0.1
+    },
+    "protein": 2,
+    "calories": 77,
+    "baseWeightGrams": 100
+  },
+  {
+    "fats": 0.3,
+    "id": "ing-32",
+    "carbs": 38,
+    "name": "Mandioca / Macaxeira (Crua)",
+    "macronutrients": {
+      "calories": 160,
+      "carbs": 38,
+      "protein": 1.3,
+      "fats": 0.3
+    },
+    "protein": 1.3,
+    "calories": 160,
+    "baseWeightGrams": 100
+  },
+  {
+    "fats": 0.2,
+    "id": "ing-33",
+    "carbs": 9.6,
+    "name": "Cenoura (Crua)",
+    "macronutrients": {
+      "calories": 41,
+      "carbs": 9.6,
+      "protein": 0.9,
+      "fats": 0.2
+    },
+    "protein": 0.9,
+    "calories": 41,
+    "baseWeightGrams": 100
+  },
+  {
+    "fats": 0.2,
+    "id": "ing-34",
+    "carbs": 3.9,
+    "name": "Tomate Fresco",
+    "macronutrients": {
+      "calories": 18,
+      "carbs": 3.9,
+      "protein": 0.9,
+      "fats": 0.2
+    },
+    "protein": 0.9,
+    "calories": 18,
+    "baseWeightGrams": 100
+  },
+  {
+    "fats": 0.1,
+    "id": "ing-35",
+    "carbs": 9.3,
+    "name": "Cebola Branca (Crua)",
+    "macronutrients": {
+      "calories": 40,
+      "carbs": 9.3,
+      "protein": 1.1,
+      "fats": 0.1
+    },
+    "protein": 1.1,
+    "calories": 40,
+    "baseWeightGrams": 100
+  },
+  {
+    "fats": 0.1,
+    "id": "ing-36",
+    "carbs": 3.3,
+    "name": "Alho Fresco",
+    "macronutrients": {
+      "calories": 15,
+      "carbs": 3.3,
+      "protein": 0.6,
+      "fats": 0.1
+    },
+    "protein": 0.6,
+    "calories": 15,
+    "baseWeightGrams": 10
+  },
+  {
+    "fats": 0.2,
+    "id": "ing-37",
+    "carbs": 4.6,
+    "name": "Pimentão Verde (Cru)",
+    "macronutrients": {
+      "calories": 20,
+      "carbs": 4.6,
+      "protein": 0.9,
+      "fats": 0.2
+    },
+    "protein": 0.9,
+    "calories": 20,
+    "baseWeightGrams": 100
+  },
+  {
+    "fats": 0.5,
+    "id": "ing-38",
+    "carbs": 4.3,
+    "name": "Couve-Manteiga (Crua)",
+    "macronutrients": {
+      "calories": 27,
+      "carbs": 4.3,
+      "protein": 2.9,
+      "fats": 0.5
+    },
+    "protein": 2.9,
+    "calories": 27,
+    "baseWeightGrams": 100
+  },
+  {
+    "fats": 0.2,
+    "id": "ing-39",
+    "carbs": 2.9,
+    "name": "Alface Crespa (Crua)",
+    "macronutrients": {
+      "calories": 15,
+      "carbs": 2.9,
+      "protein": 1.4,
+      "fats": 0.2
+    },
+    "protein": 1.4,
+    "calories": 15,
+    "baseWeightGrams": 100
+  },
+  {
+    "fats": 0.4,
+    "id": "ing-40",
+    "carbs": 6.6,
+    "name": "Brócolis (Cru)",
+    "macronutrients": {
+      "calories": 34,
+      "carbs": 6.6,
+      "protein": 2.8,
+      "fats": 0.4
+    },
+    "protein": 2.8,
+    "calories": 34,
+    "baseWeightGrams": 100
+  },
+  {
+    "fats": 0.3,
+    "id": "ing-41",
+    "carbs": 26,
+    "name": "Banana Prata (Crua)",
+    "macronutrients": {
+      "calories": 98,
+      "carbs": 26,
+      "protein": 1.3,
+      "fats": 0.3
+    },
+    "protein": 1.3,
+    "calories": 98,
+    "baseWeightGrams": 100
+  },
+  {
+    "fats": 0.2,
+    "id": "ing-42",
+    "carbs": 13.8,
+    "name": "Maçã (Crua)",
+    "macronutrients": {
+      "calories": 52,
+      "carbs": 13.8,
+      "protein": 0.3,
+      "fats": 0.2
+    },
+    "protein": 0.3,
+    "calories": 52,
+    "baseWeightGrams": 100
+  },
+  {
+    "fats": 10,
+    "id": "ing-43",
+    "carbs": 0,
+    "name": "Azeite de Oliva Extra Virgem",
+    "macronutrients": {
+      "calories": 88,
+      "carbs": 0,
+      "protein": 0,
+      "fats": 10
+    },
+    "protein": 0,
+    "calories": 88,
+    "baseWeightGrams": 10
+  },
+  {
+    "fats": 10,
+    "id": "ing-44",
+    "carbs": 0,
+    "name": "Óleo de Soja / Girassol",
+    "macronutrients": {
+      "calories": 88,
+      "carbs": 0,
+      "protein": 0,
+      "fats": 10
+    },
+    "protein": 0,
+    "calories": 88,
+    "baseWeightGrams": 10
+  },
+  {
+    "fats": 0.1,
+    "id": "ing-45",
+    "carbs": 5.3,
+    "name": "Ketchup",
+    "macronutrients": {
+      "calories": 22,
+      "carbs": 5.3,
+      "protein": 0.2,
+      "fats": 0.1
+    },
+    "protein": 0.2,
+    "calories": 22,
+    "baseWeightGrams": 20
+  },
+  {
+    "fats": 0.2,
+    "id": "ing-46",
+    "carbs": 7,
+    "name": "Molho de Tomate Tradicional",
+    "macronutrients": {
+      "calories": 35,
+      "carbs": 7,
+      "protein": 1.5,
+      "fats": 0.2
+    },
+    "protein": 1.5,
+    "calories": 35,
+    "baseWeightGrams": 100
+  },
+  {
+    "fats": 0.1,
+    "id": "ing-47",
+    "carbs": 3.8,
+    "name": "Extrato de Tomate",
+    "macronutrients": {
+      "calories": 18,
+      "carbs": 3.8,
+      "protein": 0.9,
+      "fats": 0.1
+    },
+    "protein": 0.9,
+    "calories": 18,
+    "baseWeightGrams": 30
+  },
+  {
+    "fats": 0,
+    "id": "ing-48",
+    "carbs": 1.2,
+    "name": "Molho Shoyu",
+    "macronutrients": {
+      "calories": 10,
+      "carbs": 1.2,
+      "protein": 1.1,
+      "fats": 0
+    },
+    "protein": 1.1,
+    "calories": 10,
+    "baseWeightGrams": 15
+  },
+  {
+    "fats": 0,
+    "id": "ing-49",
+    "carbs": 5.4,
+    "name": "Molho Teriyaki",
+    "macronutrients": {
+      "calories": 24,
+      "carbs": 5.4,
+      "protein": 0.6,
+      "fats": 0
+    },
+    "protein": 0.6,
+    "calories": 24,
+    "baseWeightGrams": 15
+  },
+  {
+    "fats": 8.8,
+    "id": "ing-50",
+    "carbs": 0.5,
+    "name": "Maionese Tradicional",
+    "macronutrients": {
+      "calories": 80,
+      "carbs": 0.5,
+      "protein": 0.1,
+      "fats": 8.8
+    },
+    "protein": 0.1,
+    "calories": 80,
+    "baseWeightGrams": 12
+  },
+  {
+    "fats": 3.3,
+    "id": "ing-51",
+    "carbs": 1.2,
+    "name": "Maionese Light",
+    "macronutrients": {
+      "calories": 35,
+      "carbs": 1.2,
+      "protein": 0.1,
+      "fats": 3.3
+    },
+    "protein": 0.1,
+    "calories": 35,
+    "baseWeightGrams": 12
+  },
+  {
+    "fats": 0.4,
+    "id": "ing-52",
+    "carbs": 0.6,
+    "name": "Mostarda Amarela",
+    "macronutrients": {
+      "calories": 9,
+      "carbs": 0.6,
+      "protein": 0.5,
+      "fats": 0.4
+    },
+    "protein": 0.5,
+    "calories": 9,
+    "baseWeightGrams": 10
+  },
+  {
+    "fats": 0,
+    "id": "ing-53",
+    "carbs": 17,
+    "name": "Iced Tea Pêssego",
+    "macronutrients": {
+      "calories": 70,
+      "carbs": 17,
+      "protein": 0,
+      "fats": 0
+    },
+    "protein": 0,
+    "calories": 70,
+    "baseWeightGrams": 200
+  },
+  {
+    "fats": 0,
+    "id": "ing-54",
+    "carbs": 17,
+    "name": "Iced Tea Limão",
+    "macronutrients": {
+      "calories": 70,
+      "carbs": 17,
+      "protein": 0,
+      "fats": 0
+    },
+    "protein": 0,
+    "calories": 70,
+    "baseWeightGrams": 200
+  },
+  {
+    "fats": 0.4,
+    "id": "ing-55",
+    "carbs": 21,
+    "name": "Suco de Laranja Natural",
+    "macronutrients": {
+      "calories": 90,
+      "carbs": 21,
+      "protein": 1.4,
+      "fats": 0.4
+    },
+    "protein": 1.4,
+    "calories": 90,
+    "baseWeightGrams": 200
+  },
+  {
+    "fats": 0,
+    "id": "ing-56",
+    "carbs": 37,
+    "name": "Coca-Cola Tradicional",
+    "macronutrients": {
+      "calories": 149,
+      "carbs": 37,
+      "protein": 0,
+      "fats": 0
+    },
+    "protein": 0,
+    "calories": 149,
+    "baseWeightGrams": 350
+  },
+  {
+    "fats": 0,
+    "id": "ing-57",
+    "carbs": 0,
+    "name": "Coca-Cola Zero",
+    "macronutrients": {
+      "calories": 0,
+      "carbs": 0,
+      "protein": 0,
+      "fats": 0
+    },
+    "protein": 0,
+    "calories": 0,
+    "baseWeightGrams": 350
+  },
+  {
+    "fats": 1.2,
+    "id": "ing-58",
+    "carbs": 14,
+    "name": "YoPro Danone (15g Proteína)",
+    "macronutrients": {
+      "calories": 125,
+      "carbs": 14,
+      "protein": 15,
+      "fats": 1.2
+    },
+    "protein": 15,
+    "calories": 125,
+    "baseWeightGrams": 250
+  },
+  {
+    "id": "ing-59",
+    "name": "Macarrão (Cru)",
+    "fats": 1.5,
+    "carbs": 74,
+    "baseWeightGrams": 100,
+    "calories": 371,
+    "protein": 13,
+    "macronutrients": {
+      "calories": 371,
+      "carbs": 74,
+      "protein": 13,
+      "fats": 1.5
     }
+  },
+  {
+    "id": "ing-60",
+    "name": "Cacau em Pó 100%",
+    "fats": 1.2,
+    "carbs": 3,
+    "baseWeightGrams": 10,
+    "calories": 38,
+    "protein": 2,
+    "macronutrients": {
+      "calories": 38,
+      "carbs": 3,
+      "protein": 2,
+      "fats": 1.2
+    }
+  },
+  {
+    "id": "ing-61",
+    "name": "Bicarbonato / Fermento em Pó",
+    "fats": 0,
+    "carbs": 0,
+    "baseWeightGrams": 5,
+    "calories": 0,
+    "protein": 0,
+    "macronutrients": {
+      "calories": 0,
+      "carbs": 0,
+      "protein": 0,
+      "fats": 0
+    }
+  },
+  {
+    "id": "ing-62",
+    "name": "Claras de Ovo Líquidas",
+    "fats": 0.2,
+    "carbs": 0.7,
+    "baseWeightGrams": 100,
+    "calories": 52,
+    "protein": 11,
+    "macronutrients": {
+      "calories": 52,
+      "carbs": 0.7,
+      "protein": 11,
+      "fats": 0.2
+    }
+  },
+  {
+    "id": "ing-63",
+    "name": "Adoçante Culinário / Stévia",
+    "fats": 0,
+    "carbs": 0,
+    "baseWeightGrams": 5,
+    "calories": 0,
+    "protein": 0,
+    "macronutrients": {
+      "calories": 0,
+      "carbs": 0,
+      "protein": 0,
+      "fats": 0
+    }
+  },
+  {
+    "id": "ing-64",
+    "name": "Chocolate Amargo 70%",
+    "fats": 8,
+    "carbs": 9,
+    "baseWeightGrams": 20,
+    "calories": 116,
+    "protein": 1.6,
+    "macronutrients": {
+      "calories": 116,
+      "carbs": 9,
+      "protein": 1.6,
+      "fats": 8
+    }
+  },
+  {
+    "id": "ing-65",
+    "name": "Sementes de Chia",
+    "fats": 3.1,
+    "carbs": 4.2,
+    "baseWeightGrams": 10,
+    "calories": 49,
+    "protein": 1.7,
+    "macronutrients": {
+      "calories": 49,
+      "carbs": 4.2,
+      "protein": 1.7,
+      "fats": 3.1
+    }
+  },
+  {
+    "id": "ing-66",
+    "name": "Café Expresso / Solúvel",
+    "fats": 0,
+    "carbs": 0.3,
+    "baseWeightGrams": 50,
+    "calories": 2,
+    "protein": 0.1,
+    "macronutrients": {
+      "calories": 2,
+      "carbs": 0.3,
+      "protein": 0.1,
+      "fats": 0
+    }
+  },
+  {
+    "id": "ing-67",
+    "name": "Mel de Abelha",
+    "fats": 0,
+    "carbs": 12.3,
+    "baseWeightGrams": 15,
+    "calories": 46,
+    "protein": 0.1,
+    "macronutrients": {
+      "calories": 46,
+      "carbs": 12.3,
+      "protein": 0.1,
+      "fats": 0
+    }
+  },
+  {
+    "id": "ing-68",
+    "name": "Páprica Doce / Picante",
+    "fats": 0.6,
+    "carbs": 2.7,
+    "baseWeightGrams": 5,
+    "calories": 14,
+    "protein": 0.7,
+    "macronutrients": {
+      "calories": 14,
+      "carbs": 2.7,
+      "protein": 0.7,
+      "fats": 0.6
+    }
+  },
+  {
+    "id": "ing-69",
+    "name": "Açafrão / Cúrcuma",
+    "fats": 0.5,
+    "carbs": 3.2,
+    "baseWeightGrams": 5,
+    "calories": 15,
+    "protein": 0.4,
+    "macronutrients": {
+      "calories": 15,
+      "carbs": 3.2,
+      "protein": 0.4,
+      "fats": 0.5
+    }
+  },
+  {
+    "id": "ing-70",
+    "name": "Gergelim",
+    "fats": 2.5,
+    "carbs": 1.2,
+    "baseWeightGrams": 5,
+    "calories": 29,
+    "protein": 0.9,
+    "macronutrients": {
+      "calories": 29,
+      "carbs": 1.2,
+      "protein": 0.9,
+      "fats": 2.5
+    }
+  },
+  {
+    "id": "ing-71",
+    "name": "Pepperoni / Salame Light",
+    "fats": 12,
+    "carbs": 1,
+    "baseWeightGrams": 30,
+    "calories": 140,
+    "protein": 6,
+    "macronutrients": {
+      "calories": 140,
+      "carbs": 1,
+      "protein": 6,
+      "fats": 12
+    }
+  },
+  {
+    "id": "ing-72",
+    "name": "Whey Protein (Baunilha)",
+    "fats": 1.5,
+    "carbs": 3.5,
+    "baseWeightGrams": 30,
+    "calories": 122,
+    "protein": 24,
+    "macronutrients": {
+      "calories": 122,
+      "carbs": 3.5,
+      "protein": 24,
+      "fats": 1.5
+    }
+  },
+  {
+    "id": "ing-73",
+    "name": "Farinha de Aveia",
+    "fats": 8.5,
+    "carbs": 66,
+    "baseWeightGrams": 100,
+    "calories": 394,
+    "protein": 13.9,
+    "macronutrients": {
+      "calories": 394,
+      "carbs": 66,
+      "protein": 13.9,
+      "fats": 8.5
+    }
+  },
+  {
+    "id": "ing-74",
+    "name": "Sal Refinado",
+    "fats": 0,
+    "carbs": 0,
+    "baseWeightGrams": 5,
+    "calories": 0,
+    "protein": 0,
+    "macronutrients": {
+      "calories": 0,
+      "carbs": 0,
+      "protein": 0,
+      "fats": 0
+    }
+  },
+  {
+    "id": "ing-75",
+    "name": "Pimenta-do-Reino",
+    "fats": 0,
+    "carbs": 0,
+    "baseWeightGrams": 5,
+    "calories": 0,
+    "protein": 0,
+    "macronutrients": {
+      "calories": 0,
+      "carbs": 0,
+      "protein": 0,
+      "fats": 0
+    }
+  },
+  {
+    "id": "ing-76",
+    "name": "Raspas de Limão",
+    "fats": 0,
+    "carbs": 0,
+    "baseWeightGrams": 5,
+    "calories": 0,
+    "protein": 0,
+    "macronutrients": {
+      "calories": 0,
+      "carbs": 0,
+      "protein": 0,
+      "fats": 0
+    }
+  },
+  {
+    "id": "ing-77",
+    "name": "Cebolinha Fresca",
+    "fats": 0.1,
+    "carbs": 0.5,
+    "baseWeightGrams": 10,
+    "calories": 3,
+    "protein": 0.2,
+    "macronutrients": {
+      "calories": 3,
+      "carbs": 0.5,
+      "protein": 0.2,
+      "fats": 0.1
+    }
+  },
+  {
+    "id": "ing-78",
+    "name": "Suco de Limão Natural",
+    "fats": 0,
+    "carbs": 1.4,
+    "baseWeightGrams": 20,
+    "calories": 5,
+    "protein": 0.1,
+    "macronutrients": {
+      "calories": 5,
+      "carbs": 1.4,
+      "protein": 0.1,
+      "fats": 0
+    }
+  },
+  {
+    "id": "ing-1784934055823",
+    "name": "Nescau em Pó",
+    "baseWeightGrams": 20,
+    "calories": 76,
+    "carbs": 17,
+    "protein": 0.6,
+    "fats": 0.4,
+    "macronutrients": {
+      "calories": 76,
+      "carbs": 17,
+      "protein": 0.6,
+      "fats": 0.4
+    }
+  }
 ]
