@@ -1,0 +1,38 @@
+[
+  {
+    "id": "ing-1",
+    "name": "Ovo de Galinha (Cozido)",
+    "baseWeightGrams": 100,
+    "calories": 155,
+    "carbs": 1.1,
+    "protein": 13,
+    "fats": 11
+  },
+  {
+    "id": "ing-2",
+    "name": "Filé Mignon (Grelhado)",
+    "baseWeightGrams": 100,
+    "calories": 217,
+    "carbs": 0,
+    "protein": 30.4,
+    "fats": 10.5
+  },
+  {
+    "id": "ing-3",
+    "name": "Arroz Branco (Cozido)",
+    "baseWeightGrams": 100,
+    "calories": 130,
+    "carbs": 28,
+    "protein": 2.7,
+    "fats": 0.3
+  },
+  {
+    "id": "ing-4",
+    "name": "Azeite de Oliva Extra Virgem",
+    "baseWeightGrams": 10,
+    "calories": 88,
+    "carbs": 0,
+    "protein": 0,
+    "fats": 10
+  }
+]
