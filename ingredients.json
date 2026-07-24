@@ -868,5 +868,122 @@
         "protein":  15,
         "calories":  125,
         "baseWeightGrams":  250
+    },
+    {
+        "id":  "ing-59",
+        "name":  "Macarrão (Cru)",
+        "fats":  1.5,
+        "carbs":  74,
+        "baseWeightGrams":  100,
+        "calories":  371,
+        "protein":  13
+    },
+    {
+        "id":  "ing-60",
+        "name":  "Cacau em Pó 100%",
+        "fats":  1.2,
+        "carbs":  3,
+        "baseWeightGrams":  10,
+        "calories":  38,
+        "protein":  2
+    },
+    {
+        "id":  "ing-61",
+        "name":  "Bicarbonato / Fermento em Pó",
+        "fats":  0,
+        "carbs":  0,
+        "baseWeightGrams":  5,
+        "calories":  0,
+        "protein":  0
+    },
+    {
+        "id":  "ing-62",
+        "name":  "Claras de Ovo Líquidas",
+        "fats":  0.2,
+        "carbs":  0.7,
+        "baseWeightGrams":  100,
+        "calories":  52,
+        "protein":  11
+    },
+    {
+        "id":  "ing-63",
+        "name":  "Adoçante Culinário / Stévia",
+        "fats":  0,
+        "carbs":  0,
+        "baseWeightGrams":  5,
+        "calories":  0,
+        "protein":  0
+    },
+    {
+        "id":  "ing-64",
+        "name":  "Chocolate Amargo 70%",
+        "fats":  8,
+        "carbs":  9,
+        "baseWeightGrams":  20,
+        "calories":  116,
+        "protein":  1.6
+    },
+    {
+        "id":  "ing-65",
+        "name":  "Sementes de Chia",
+        "fats":  3.1,
+        "carbs":  4.2,
+        "baseWeightGrams":  10,
+        "calories":  49,
+        "protein":  1.7
+    },
+    {
+        "id":  "ing-66",
+        "name":  "Café Expresso / Solúvel",
+        "fats":  0,
+        "carbs":  0.3,
+        "baseWeightGrams":  50,
+        "calories":  2,
+        "protein":  0.1
+    },
+    {
+        "id":  "ing-67",
+        "name":  "Mel de Abelha",
+        "fats":  0,
+        "carbs":  12.3,
+        "baseWeightGrams":  15,
+        "calories":  46,
+        "protein":  0.1
+    },
+    {
+        "id":  "ing-68",
+        "name":  "Páprica Doce / Picante",
+        "fats":  0.6,
+        "carbs":  2.7,
+        "baseWeightGrams":  5,
+        "calories":  14,
+        "protein":  0.7
+    },
+    {
+        "id":  "ing-69",
+        "name":  "Açafrão / Cúrcuma",
+        "fats":  0.5,
+        "carbs":  3.2,
+        "baseWeightGrams":  5,
+        "calories":  15,
+        "protein":  0.4
+    },
+    {
+        "id":  "ing-70",
+        "name":  "Gergelim",
+        "fats":  2.5,
+        "carbs":  1.2,
+        "baseWeightGrams":  5,
+        "calories":  29,
+        "protein":  0.9
+    },
+    {
+        "id":  "ing-71",
+        "name":  "Pepperoni / Salame Light",
+        "fats":  12,
+        "carbs":  1,
+        "baseWeightGrams":  30,
+        "calories":  140,
+        "protein":  6
     }
 ]
