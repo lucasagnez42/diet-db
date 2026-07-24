@@ -1149,7 +1149,7 @@
   {
     "id": "meal-1784934188766",
     "category": "Ceia",
-    "mealName": "Sanduíche de Queijo com Nescau",
+    "mealName": "Misto Quente com Nescau",
     "components": [
       {
         "type": "sub-recipe",
@@ -1164,14 +1164,19 @@
       {
         "type": "ingredient",
         "id": "ing-25",
-        "weightGrams": 50
+        "weightGrams": 25
+      },
+      {
+        "type": "ingredient",
+        "id": "ing-1784937235951",
+        "weightGrams": 12
       }
     ],
     "macronutrients": {
-      "calories": 519,
-      "carbs": 74.1,
-      "protein": 25.1,
-      "fats": 13.3
+      "calories": 461,
+      "carbs": 73.6,
+      "protein": 22,
+      "fats": 8.5
     },
     "instructions": []
   }
