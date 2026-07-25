@@ -92,12 +92,12 @@
     "id": "meal-3",
     "components": [
       {
-        "weightGrams": 40,
+        "weightGrams": 15,
         "id": "ing-9",
         "type": "ingredient"
       },
       {
-        "weightGrams": 100,
+        "weightGrams": 55,
         "id": "ing-41",
         "type": "ingredient"
       },
@@ -110,16 +110,21 @@
         "weightGrams": 30,
         "id": "ing-24",
         "type": "ingredient"
+      },
+      {
+        "type": "ingredient",
+        "id": "ing-61",
+        "weightGrams": 5
       }
     ],
     "macronutrients": {
-      "calories": 449,
-      "carbs": 56.7,
-      "fats": 10,
-      "protein": 37.4
+      "calories": 307,
+      "carbs": 28.5,
+      "protein": 33.3,
+      "fats": 7.8
     },
     "instructions": [
-      "Em uma tigela, amasse a banana e misture com o ovo, a aveia e o Whey Protein.",
+      "Em uma tigela, amasse a banana e misture com o ovo, a aveia, fermento e o Whey Protein.",
       "Mexa bem até obter uma massa homogênea.",
       "Despeje porções da massa em uma frigideira antiaderente levemente untada em fogo baixo.",
       "Doure dos dois lados e sirva aquecido."
