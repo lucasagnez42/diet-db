@@ -1184,5 +1184,34 @@
       "fats": 8.5
     },
     "instructions": []
+  },
+  {
+    "id": "meal-1784999497869",
+    "category": "Café da manhã",
+    "mealName": "Tapioca com ovo",
+    "components": [
+      {
+        "type": "ingredient",
+        "id": "ing-7",
+        "weightGrams": 60
+      },
+      {
+        "type": "ingredient",
+        "id": "ing-21",
+        "weightGrams": 50
+      },
+      {
+        "type": "ingredient",
+        "id": "ing-74",
+        "weightGrams": 5
+      }
+    ],
+    "macronutrients": {
+      "calories": 216,
+      "carbs": 36.8,
+      "protein": 6.5,
+      "fats": 4.8
+    },
+    "instructions": []
   }
 ]
