@@ -865,7 +865,7 @@
     "id": "meal-21",
     "components": [
       {
-        "weightGrams": 150,
+        "weightGrams": 100,
         "id": "ing-29",
         "type": "ingredient"
       },
@@ -875,13 +875,8 @@
         "type": "ingredient"
       },
       {
-        "weightGrams": 40,
+        "weightGrams": 30,
         "id": "ing-24",
-        "type": "ingredient"
-      },
-      {
-        "weightGrams": 25,
-        "id": "ing-9",
         "type": "ingredient"
       },
       {
@@ -890,25 +885,22 @@
         "type": "ingredient"
       },
       {
-        "weightGrams": 1,
-        "id": "ing-74",
-        "type": "ingredient"
+        "type": "ingredient",
+        "id": "ing-60",
+        "weightGrams": 20
       }
     ],
     "macronutrients": {
-      "calories": 70,
-      "carbs": 5.5,
-      "fats": 2.4,
-      "protein": 8.1
+      "calories": 370,
+      "carbs": 16.3,
+      "protein": 40.5,
+      "fats": 13.7
     },
     "instructions": [
-      "Em uma tigela, misture o iogurte grego 0%, o ovo e as claras de ovo.",
-      "Incorpore o Whey Protein (Chocolate), o cacau em pó, a farinha de aveia e o adoçante culinário.",
-      "Misture bem até obter uma massa cremosa e homogênea.",
-      "Despeje em uma assadeira antiaderente para forno e distribua o chocolate amargo picado por cima.",
-      "Asse a 180°C por 15 a 20 minutos (deixando o centro levemente úmido) e corte em 9 pedaços."
+      "Misturar tudo num pote",
+      "Colocar na microondas por 2min"
     ],
-    "mealName": "Brownie Proteico Anabólico de Forno",
+    "mealName": "Brownie Proteico",
     "category": "Lanche da tarde"
   },
   {
