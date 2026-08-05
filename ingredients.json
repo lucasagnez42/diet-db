@@ -932,14 +932,14 @@
   {
     "id": "ing-63",
     "name": "Adoçante Culinário / Stévia",
-    "fats": 0,
-    "carbs": 0,
-    "baseWeightGrams": 5,
-    "calories": 0,
+    "baseWeightGrams": 9,
+    "calories": 33,
+    "carbs": 8.4,
     "protein": 0,
+    "fats": 0,
     "macronutrients": {
-      "calories": 0,
-      "carbs": 0,
+      "calories": 33,
+      "carbs": 8.4,
       "protein": 0,
       "fats": 0
     }
