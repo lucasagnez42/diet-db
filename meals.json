@@ -716,69 +716,6 @@
     "category": "Ceia"
   },
   {
-    "id": "meal-1784860462893",
-    "category": "Ceia",
-    "mealName": "Carne com ovo",
-    "components": [
-      {
-        "type": "sub-recipe",
-        "id": "sub-1",
-        "weightGrams": 100
-      },
-      {
-        "type": "ingredient",
-        "id": "ing-13",
-        "weightGrams": 100
-      },
-      {
-        "weightGrams": 2,
-        "id": "ing-74",
-        "type": "ingredient"
-      }
-    ],
-    "macronutrients": {
-      "calories": 509,
-      "carbs": 78.2,
-      "protein": 28.7,
-      "fats": 7.8
-    },
-    "instructions": [],
-    "deletedAt": "2026-07-24T02:58:11.914Z"
-  },
-  {
-    "id": "meal-1784864254541",
-    "category": "Almoço",
-    "mealName": "File com fritas",
-    "components": [
-      {
-        "type": "ingredient",
-        "id": "ing-31",
-        "weightGrams": 100
-      },
-      {
-        "type": "sub-recipe",
-        "id": "sub-1784864207277",
-        "weightGrams": 100
-      },
-      {
-        "weightGrams": 2,
-        "id": "ing-74",
-        "type": "ingredient"
-      }
-    ],
-    "macronutrients": {
-      "calories": 270,
-      "carbs": 17,
-      "protein": 22.1,
-      "fats": 12.5
-    },
-    "instructions": [
-      "Frite a batata",
-      "Sirva com o filé"
-    ],
-    "deletedAt": "2026-07-24T22:39:36.741Z"
-  },
-  {
     "id": "meal-19",
     "components": [
       {
@@ -865,7 +802,7 @@
     "id": "meal-21",
     "components": [
       {
-        "weightGrams": 100,
+        "weightGrams": 90,
         "id": "ing-29",
         "type": "ingredient"
       },
@@ -880,7 +817,7 @@
         "type": "ingredient"
       },
       {
-        "weightGrams": 24,
+        "weightGrams": 20,
         "id": "ing-63",
         "type": "ingredient"
       },
@@ -891,10 +828,10 @@
       }
     ],
     "macronutrients": {
-      "calories": 370,
-      "carbs": 16.3,
-      "protein": 40.5,
-      "fats": 13.7
+      "calories": 433,
+      "carbs": 34.4,
+      "protein": 39.9,
+      "fats": 13.2
     },
     "instructions": [
       "Misturar tudo num pote",
@@ -980,35 +917,6 @@
     "category": "Lanche da tarde"
   },
   {
-    "id": "meal-23",
-    "components": [
-      {
-        "weightGrams": 150,
-        "id": "sub-5",
-        "type": "sub-recipe"
-      },
-      {
-        "weightGrams": 40,
-        "id": "sub-13",
-        "type": "sub-recipe"
-      }
-    ],
-    "macronutrients": {
-      "calories": 260,
-      "carbs": 4.1,
-      "fats": 10.3,
-      "protein": 36.4
-    },
-    "instructions": [
-      "Prepare a sub-receita Marinada Cremosa de Ervas.",
-      "Envolva o peito de frango na marinada e deixe descansar por 30 a 60 minutos.",
-      "Grelhe o frango em frigideira aquecida até dourar."
-    ],
-    "mealName": "Peito de Frango Marinado em Ervas e Iogurte",
-    "category": "Almoço",
-    "deletedAt": "2026-07-24T22:39:10.063Z"
-  },
-  {
     "id": "meal-24",
     "components": [
       {
@@ -1055,93 +963,6 @@
     ],
     "mealName": "Pizza Roll de Patinho e Queijo na Frigideira",
     "category": "Janta"
-  },
-  {
-    "id": "meal-25",
-    "components": [
-      {
-        "weightGrams": 150,
-        "id": "sub-5",
-        "type": "sub-recipe"
-      },
-      {
-        "weightGrams": 47,
-        "id": "sub-14",
-        "type": "sub-recipe"
-      }
-    ],
-    "macronutrients": {
-      "calories": 272,
-      "carbs": 10.3,
-      "fats": 9.5,
-      "protein": 35.3
-    },
-    "instructions": [
-      "Prepare a sub-receita Marinada Agridoce.",
-      "Envolva o peito de frango na marinada e deixe descansar por 30 a 60 minutos.",
-      "Grelhe em frigideira antiaderente até formar uma casquinha dourada e agridoce."
-    ],
-    "mealName": "Peito de Frango Marinado Agridoce (Mostarda e Mel)",
-    "category": "Almoço",
-    "deletedAt": "2026-07-24T22:39:29.102Z"
-  },
-  {
-    "id": "meal-26",
-    "components": [
-      {
-        "weightGrams": 150,
-        "id": "sub-5",
-        "type": "sub-recipe"
-      },
-      {
-        "weightGrams": 43,
-        "id": "sub-15",
-        "type": "sub-recipe"
-      }
-    ],
-    "macronutrients": {
-      "calories": 294,
-      "carbs": 11.4,
-      "fats": 11.3,
-      "protein": 36.7
-    },
-    "instructions": [
-      "Prepare a sub-receita Marinada Oriental.",
-      "Deixe as tiras de frango marinarem por 30 a 60 minutos.",
-      "Salteie na frigideira bem quente até o molho reduzido caramelizar no frango."
-    ],
-    "mealName": "Peito de Frango Marinado Oriental (Shoyu e Gergelim)",
-    "category": "Almoço",
-    "deletedAt": "2026-07-24T22:39:17.437Z"
-  },
-  {
-    "id": "meal-27",
-    "components": [
-      {
-        "weightGrams": 150,
-        "id": "sub-5",
-        "type": "sub-recipe"
-      },
-      {
-        "weightGrams": 61,
-        "id": "sub-16",
-        "type": "sub-recipe"
-      }
-    ],
-    "macronutrients": {
-      "calories": 306,
-      "carbs": 4.3,
-      "fats": 15.3,
-      "protein": 36.5
-    },
-    "instructions": [
-      "Prepare a sub-receita Marinada Refrescante.",
-      "Deixe os bifes de frango marinando por 30 a 60 minutos na geladeira.",
-      "Grelhe na frigideira ou asse na Airfryer até dourar."
-    ],
-    "mealName": "Peito de Frango Marinado Refrescante (Iogurte, Limão e Azeite)",
-    "category": "Almoço",
-    "deletedAt": "2026-07-24T22:32:40.545Z"
   },
   {
     "id": "meal-1784934188766",
